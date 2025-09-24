@@ -1,3 +1,4 @@
 *.json
 *.zip
-docs/*.md
+/docs/*.md
+/site
