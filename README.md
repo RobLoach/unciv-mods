@@ -25,3 +25,8 @@ Lists all the available Unciv mods, in a website, and a mods.json manifest file.
     ```
     mkdocs serve
     ```
+
+6. Deploy
+    ```
+    mkdocs gh-deploy
+    ```
