@@ -63,8 +63,8 @@ def build_markdown_table(repos):
         "- [mods.json](assets/mods.json)",
         "- [mods.zip](assets/mods.zip)",
         "",
-        "| Name | Author | Description | Stars | Updated |",
-        "| ---- | ------ | ----------- | ----- | ------- |"
+        "| Name | Author | Stars | Updated |",
+        "| ---- | ------ | ----- | ------- |"
     ]
 
     # Write each entry
@@ -80,7 +80,7 @@ def build_markdown_table(repos):
             updated = datetime.strptime(updated_raw, "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d")
         except Exception:
             updated = updated_raw
-        row = f"| {name} | {author} | {desc} | {stars} | {updated} |"
+        row = f"| {name}<br>{desc} | {author} | {stars} | {updated} |"
         rows.append(row)
     return "\n".join(rows)
 
