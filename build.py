@@ -3,6 +3,7 @@ import sys
 import os
 import json
 import zipfile
+from datetime import datetime
 
 GITHUB_API_URL = "https://api.github.com/search/repositories"
 TAGS = [
@@ -62,8 +63,8 @@ def build_markdown_table(repos):
         "- [mods.json](assets/mods.json)",
         "- [mods.zip](assets/mods.zip)",
         "",
-        "| Name | Author | Description | Stars |",
-        "| ---- | ------ | ----------- | ----- |"
+        "| Name | Author | Description | Stars | Updated |",
+        "| ---- | ------ | ----------- | ----- | ------- |"
     ]
 
     # Write each entry
@@ -74,9 +75,12 @@ def build_markdown_table(repos):
         desc = desc.replace("|", "\\|")
         author = f"[{repo.get('owner', {}).get('login')}]({repo['html_url']})"
         stars = repo["stargazers_count"]
-        url = repo["html_url"]
-        topics = ", ".join(repo.get("topics", []))
-        row = f"| {name} | {author} | {desc} | {stars} |"
+        updated_raw = repo.get("updated_at", "")
+        try:
+            updated = datetime.strptime(updated_raw, "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d")
+        except Exception:
+            updated = updated_raw
+        row = f"| {name} | {author} | {desc} | {stars} | {updated} |"
         rows.append(row)
     return "\n".join(rows)
 
