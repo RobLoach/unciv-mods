@@ -13,6 +13,7 @@ TAGS = [
     "unciv-mod-audio",
     "unciv-mod-maps",
     "unciv-mod-fun",
+    "unciv-mod-modsofmods",
     "unciv-mod-of-mods",
 ]
 
