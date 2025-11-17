@@ -5,7 +5,7 @@
     "author": "ravignir",
     "url": "https://github.com/ravignir/5Hex-Tileset",
     "stars": 148,
-    "updated": "2025-10-10T13:15:38Z",
+    "updated": "2025-10-17T18:58:51Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-graphics"
@@ -16,8 +16,8 @@
     "description": "LekMOD for unciv. New and rebalanced civs, buildings, units, mechanics.",
     "author": "ravignir",
     "url": "https://github.com/ravignir/RekMOD",
-    "stars": 135,
-    "updated": "2025-10-06T17:52:26Z",
+    "stars": 137,
+    "updated": "2025-11-08T02:59:18Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
@@ -28,8 +28,8 @@
     "description": "Rebuild civilization after the end of the world. A mod for Unciv. Uses FantasyHex tiles and units.",
     "author": "SpacedOutChicken",
     "url": "https://github.com/SpacedOutChicken/DeCiv-Redux",
-    "stars": 111,
-    "updated": "2025-10-10T16:52:05Z",
+    "stars": 112,
+    "updated": "2025-11-15T17:53:38Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
@@ -40,8 +40,8 @@
     "description": "An Unciv total conversion mod, taking inspiration from Alpha Centauri and Beyond Earth. Uses FantasyHex tileset.",
     "author": "carriontrooper",
     "url": "https://github.com/carriontrooper/Alpha-Frontier",
-    "stars": 98,
-    "updated": "2025-10-10T03:22:09Z",
+    "stars": 99,
+    "updated": "2025-11-12T15:20:21Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
@@ -52,8 +52,8 @@
     "description": "A set of detailed unit sprites for Unciv, designed for the HexaRealm tileset. Please leave a star if you like it!",
     "author": "letstalkaboutdune",
     "url": "https://github.com/letstalkaboutdune/AbsoluteUnits",
-    "stars": 71,
-    "updated": "2025-10-09T01:51:17Z",
+    "stars": 72,
+    "updated": "2025-11-01T22:44:53Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-graphics"
@@ -65,7 +65,7 @@
     "author": "EmperorPinguin",
     "url": "https://github.com/EmperorPinguin/Civ6-mod",
     "stars": 68,
-    "updated": "2025-09-20T19:29:26Z",
+    "updated": "2025-11-03T08:23:03Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
@@ -76,8 +76,8 @@
     "description": "Lm2 is a large rulesets developed based on the Unciv, currently version is 1.8.1",
     "author": "Jiangeshi",
     "url": "https://github.com/Jiangeshi/Leader-Mission-2-Rising-Power",
-    "stars": 66,
-    "updated": "2025-10-07T20:20:32Z",
+    "stars": 67,
+    "updated": "2025-11-15T04:53:33Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
@@ -88,8 +88,8 @@
     "description": "Most of the countries in this mod have had glorious history or epic struggles with fate. They may not be perfect, but each is worthy of respect. ",
     "author": "Jiangeshi",
     "url": "https://github.com/Jiangeshi/Leader-Mission",
-    "stars": 65,
-    "updated": "2025-07-30T23:52:24Z",
+    "stars": 66,
+    "updated": "2025-11-03T08:22:56Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
@@ -100,8 +100,8 @@
     "description": "This is a content-rich CivilizationVI-about mod that combines the elements of Chinese culture.",
     "author": "AutumnPizazz",
     "url": "https://github.com/AutumnPizazz/CoeHarMod",
-    "stars": 59,
-    "updated": "2025-08-25T05:33:36Z",
+    "stars": 61,
+    "updated": "2025-11-17T13:02:55Z",
     "topics": [
       "unciv",
       "unciv-mod",
@@ -113,8 +113,8 @@
     "description": "This mod brings to the game (almost) every Latin American nation. Includes maps!  --  *Update 1.8.7* New: Honduras!  --  Developed by @CaballeroArepa",
     "author": "Caballero-Arepa",
     "url": "https://github.com/Caballero-Arepa/Latin-American_Civs",
-    "stars": 59,
-    "updated": "2025-09-17T09:47:07Z",
+    "stars": 60,
+    "updated": "2025-11-03T08:23:06Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions",
@@ -126,11 +126,24 @@
     "description": "11 new civs (Sumeria, Israel, Phoenicia, the Hittites, Armenia, Macrobia, Olmec, Nok, Himyar, Epirus and Scythia)",
     "author": "ravignir",
     "url": "https://github.com/ravignir/Ancient-Civilizations",
-    "stars": 53,
-    "updated": "2025-09-20T06:38:01Z",
+    "stars": 54,
+    "updated": "2025-11-03T08:23:25Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "World-Of-Gensokyo-Touhou-Mod",
+    "description": "A ruleset Touhou mod that takes place in a fantasy world called 'Gensokyo' where anything can exist, from yōkais to vampires, and even from fairies to Gods, heavily based on Japanese mythology. 「开始一个新游戏，以使中文翻译完全生效」 「中国語/日本語翻訳が完全に機能するために、新しいゲームを開始してください」",
+    "author": "Wheelchair2",
+    "url": "https://github.com/Wheelchair2/World-Of-Gensokyo-Touhou-Mod",
+    "stars": 48,
+    "updated": "2025-11-03T08:23:35Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun",
+      "unciv-mod-rulesets"
     ]
   },
   {
@@ -146,13 +159,15 @@
     ]
   },
   {
-    "name": "World-Of-Gensokyo-Touhou-Mod",
-    "description": "A ruleset Touhou mod that takes place in a fantasy world called 'Gensokyo' where anything can exist, from yōkais to vampires, and even from fairies to Gods, heavily based on Japanese mythology. 「开始一个新游戏，以使中文翻译完全生效」 「中国語/日本語翻訳が完全に機能するために、新しいゲームを開始してください」",
-    "author": "Wheelchair2",
-    "url": "https://github.com/Wheelchair2/World-Of-Gensokyo-Touhou-Mod",
+    "name": "The-Great-Unciv-Rework",
+    "description": "Enhanced Gameplay",
+    "author": "A1y0sh4",
+    "url": "https://github.com/A1y0sh4/The-Great-Unciv-Rework",
     "stars": 47,
-    "updated": "2025-10-08T03:10:02Z",
+    "updated": "2025-11-16T12:08:48Z",
     "topics": [
+      "mod",
+      "unciv",
       "unciv-mod",
       "unciv-mod-fun",
       "unciv-mod-rulesets"
@@ -172,30 +187,54 @@
     ]
   },
   {
-    "name": "The-Great-Unciv-Rework",
-    "description": "Enhanced Gameplay",
-    "author": "A1y0sh4",
-    "url": "https://github.com/A1y0sh4/The-Great-Unciv-Rework",
-    "stars": 44,
-    "updated": "2025-10-07T23:25:42Z",
-    "topics": [
-      "mod",
-      "unciv",
-      "unciv-mod",
-      "unciv-mod-fun",
-      "unciv-mod-rulesets"
-    ]
-  },
-  {
     "name": "Fantasia",
     "description": "Play a fantasy race in a fantasy world.  Use HexaRealm TileSet and FantasyHex UnitSet. Available in English, Spanish, and Indonesian.",
     "author": "amfauzn",
     "url": "https://github.com/amfauzn/Fantasia",
-    "stars": 36,
-    "updated": "2025-10-03T15:35:06Z",
+    "stars": 37,
+    "updated": "2025-11-03T08:25:18Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
+    ]
+  },
+  {
+    "name": "Unciv-Vanilla-Music-Pack",
+    "description": "A mod that adds Civilization specific music, that will improve your gameplay experience. Music IS NOT based on Civ 5 Themes.",
+    "author": "NoviceCoder2000",
+    "url": "https://github.com/NoviceCoder2000/Unciv-Vanilla-Music-Pack",
+    "stars": 37,
+    "updated": "2025-11-03T08:25:27Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-audio"
+    ]
+  },
+  {
+    "name": "Extra-Buildings",
+    "description": "Adds cool buildings for Unciv. 100% FUN. Incompatible with Vanilla Unciv, Civ6, Civ4, DeCiv, Unciv WWII, and Alpha Frontier. I accept pull requests :> ",
+    "author": "shannaurelle",
+    "url": "https://github.com/shannaurelle/Extra-Buildings",
+    "stars": 36,
+    "updated": "2025-11-03T08:25:41Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Upside-Down",
+    "description": "A mod for Unciv, designed to give the player a distinctly unfair advantage",
+    "author": "SpacedOutChicken",
+    "url": "https://github.com/SpacedOutChicken/Upside-Down",
+    "stars": 35,
+    "updated": "2025-11-08T23:07:29Z",
+    "topics": [
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-fun"
     ]
   },
   {
@@ -211,54 +250,27 @@
     ]
   },
   {
-    "name": "Upside-Down",
-    "description": "A mod for Unciv, designed to give the player a distinctly unfair advantage",
-    "author": "SpacedOutChicken",
-    "url": "https://github.com/SpacedOutChicken/Upside-Down",
-    "stars": 34,
-    "updated": "2025-10-08T05:12:04Z",
-    "topics": [
-      "unciv",
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Unciv-Vanilla-Music-Pack",
-    "description": "A mod that adds Civilization specific music, that will improve your gameplay experience. Music IS NOT based on Civ 5 Themes.",
-    "author": "NoviceCoder2000",
-    "url": "https://github.com/NoviceCoder2000/Unciv-Vanilla-Music-Pack",
-    "stars": 34,
-    "updated": "2025-07-08T12:10:00Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-audio"
-    ]
-  },
-  {
     "name": "Civ-IV",
     "description": "A Civ IV mod for Unciv",
     "author": "yairm210",
     "url": "https://github.com/yairm210/Civ-IV",
-    "stars": 33,
-    "updated": "2025-09-17T06:10:42Z",
+    "stars": 34,
+    "updated": "2025-11-04T20:43:58Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
     ]
   },
   {
-    "name": "Extra-Buildings",
-    "description": "Adds cool buildings for Unciv. 100% FUN. Incompatible with Vanilla Unciv, Civ6, Civ4, DeCiv, Unciv WWII, and Alpha Frontier. I accept pull requests :> ",
-    "author": "shannaurelle",
-    "url": "https://github.com/shannaurelle/Extra-Buildings",
-    "stars": 33,
-    "updated": "2025-07-07T21:10:50Z",
+    "name": "UnTile-Civ6-Tileset",
+    "description": "Tileset for Unciv in Civ6 Strategic View Style",
+    "author": "Malwen",
+    "url": "https://github.com/Malwen/UnTile-Civ6-Tileset",
+    "stars": 30,
+    "updated": "2025-10-22T20:42:30Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-modsofmods"
+      "unciv-mod-graphics"
     ]
   },
   {
@@ -274,24 +286,12 @@
     ]
   },
   {
-    "name": "UnTile-Civ6-Tileset",
-    "description": "Tileset for Unciv in Civ6 Strategic View Style",
-    "author": "Malwen",
-    "url": "https://github.com/Malwen/UnTile-Civ6-Tileset",
-    "stars": 29,
-    "updated": "2025-09-08T11:55:40Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-graphics"
-    ]
-  },
-  {
     "name": "Epic-of-Fantasy",
-    "description": "Adds fantasy-themed civilizations into Gods & Kings. Recommended to play with \"Only Mod Civilization\" by amfauzn. Uses AbsoluteUnits tileset.",
+    "description": "Fantasy-themed civilizations for GnK. \"Only Mod Civilization\" is recommended. Uses AbsoluteUnits tileset. Detailed patch notes in Unciv official Discord server.",
     "author": "AceHank",
     "url": "https://github.com/AceHank/Epic-of-Fantasy",
     "stars": 28,
-    "updated": "2025-09-11T12:38:21Z",
+    "updated": "2025-11-09T22:53:57Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
@@ -326,8 +326,8 @@
     "description": "Major Overhaul of literary everything, if you are not satisfied with how civ 5 portrays human civilisations, you ought to try this mod!",
     "author": "chenxing61",
     "url": "https://github.com/chenxing61/Emperors-and-Deities",
-    "stars": 23,
-    "updated": "2025-10-07T04:53:15Z",
+    "stars": 24,
+    "updated": "2025-11-15T11:17:23Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
@@ -372,15 +372,15 @@
     ]
   },
   {
-    "name": "Additional-Music-Various",
-    "description": "Additional Music - Various. Adds a selection of thirty relatively peaceful free music tracks, royalty-free, from incompetech.com / filmmusic.io.",
-    "author": "SomeTroglodyte",
-    "url": "https://github.com/SomeTroglodyte/Additional-Music-Various",
+    "name": "Deciv-2",
+    "description": "Rebuild civilization after the end of the world. A fork of classic DeCiv Redux. Uses FantasyHex tiles and units.",
+    "author": "SpacedOutChicken",
+    "url": "https://github.com/SpacedOutChicken/Deciv-2",
     "stars": 21,
-    "updated": "2025-05-30T19:56:03Z",
+    "updated": "2025-11-16T09:19:48Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-audio"
+      "unciv-mod-rulesets"
     ]
   },
   {
@@ -393,18 +393,6 @@
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Deciv-2",
-    "description": "Rebuild civilization after the end of the world. A fork of classic DeCiv Redux. Uses FantasyHex tiles and units.",
-    "author": "SpacedOutChicken",
-    "url": "https://github.com/SpacedOutChicken/Deciv-2",
-    "stars": 19,
-    "updated": "2025-10-04T22:18:48Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-rulesets"
     ]
   },
   {
@@ -430,6 +418,18 @@
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Additional-Music-Various",
+    "description": "Additional Music - Various. Adds a selection of thirty relatively peaceful free music tracks, royalty-free, from incompetech.com / filmmusic.io.",
+    "author": "SomeTroglodyte",
+    "url": "https://github.com/SomeTroglodyte/Additional-Music-Various",
+    "stars": 19,
+    "updated": "2025-10-26T18:00:58Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-audio"
     ]
   },
   {
@@ -461,8 +461,8 @@
     "description": "Major expansion + rebalance mod for DeCiv Redux & DeCiv 2. Stronger barbarians, better ruins rewards, new factions, new units, new wonders, new and revised beliefs, and so on.",
     "author": "the-s-is-silent",
     "url": "https://github.com/the-s-is-silent/Outlaws-of-the-Wastes",
-    "stars": 17,
-    "updated": "2025-10-09T11:37:21Z",
+    "stars": 18,
+    "updated": "2025-11-16T09:26:21Z",
     "topics": [
       "deciv-redux",
       "unciv-mod",
@@ -475,23 +475,11 @@
     "description": "Brave New World expansion for Unciv's Civ V - Gods & Kings.",
     "author": "RobLoach",
     "url": "https://github.com/RobLoach/Civ-V-Brave-New-World",
-    "stars": 17,
-    "updated": "2025-10-10T05:17:38Z",
+    "stars": 18,
+    "updated": "2025-11-16T19:44:56Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "AbsoluteUnitsXL",
-    "description": "A set of EXTRA-LARGE, detailed unit sprites for Unciv, designed for the HexaRealm tileset. Please leave a star if you like it!",
-    "author": "letstalkaboutdune",
-    "url": "https://github.com/letstalkaboutdune/AbsoluteUnitsXL",
-    "stars": 17,
-    "updated": "2025-10-06T09:15:19Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-graphics"
     ]
   },
   {
@@ -519,15 +507,20 @@
     ]
   },
   {
-    "name": "More-Luxuries",
-    "description": "Adds nine more luxuries to the game and an additional Mercantile city-state luxury.",
-    "author": "artkolobok",
-    "url": "https://github.com/artkolobok/More-Luxuries",
+    "name": "AdultUnciv",
+    "description": "[NOT FINISHED] AdultUnciv is a adult-themed mod that aims to add various content including 1 civ, buildings, improvements and features.",
+    "author": "DeicideFelidae",
+    "url": "https://github.com/DeicideFelidae/AdultUnciv",
     "stars": 16,
-    "updated": "2025-03-02T17:40:54Z",
+    "updated": "2025-11-16T09:46:17Z",
     "topics": [
+      "nsfw",
+      "unciv",
+      "unciv-fun",
       "unciv-mod",
-      "unciv-mod-expansions"
+      "unciv-mod-expansions",
+      "unciv-mod-fun",
+      "unciv-mod-graphics"
     ]
   },
   {
@@ -545,6 +538,18 @@
     ]
   },
   {
+    "name": "AbsoluteUnitsXL",
+    "description": "A set of EXTRA-LARGE, detailed unit sprites for Unciv, designed for the HexaRealm tileset. Please leave a star if you like it!",
+    "author": "letstalkaboutdune",
+    "url": "https://github.com/letstalkaboutdune/AbsoluteUnitsXL",
+    "stars": 16,
+    "updated": "2025-10-29T23:22:16Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-graphics"
+    ]
+  },
+  {
     "name": "Pix5-Tileset",
     "description": "LynxRo Tileset remastered. With massive rework and add more tiles and improvement uniques. Also for FantasyHex.",
     "author": "AdityaMH",
@@ -558,35 +563,30 @@
     ]
   },
   {
+    "name": "More-Luxuries",
+    "description": "Adds nine more luxuries to the game and an additional Mercantile city-state luxury.",
+    "author": "artkolobok",
+    "url": "https://github.com/artkolobok/More-Luxuries",
+    "stars": 15,
+    "updated": "2025-11-09T17:42:56Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
     "name": "hack-land",
     "description": "unciv mod. welcome to hack land! hack land is a place of great power, money and production! communism can finally be a thing!!!!! (op hack nation) pls star if you like!",
     "author": "kingkarna1",
     "url": "https://github.com/kingkarna1/hack-land",
     "stars": 14,
-    "updated": "2025-05-11T07:20:06Z",
+    "updated": "2025-11-17T14:50:54Z",
     "topics": [
       "mod",
       "unciv-mod",
       "unciv-mod-expansion",
       "unciv-mod-expansions",
       "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "AdultUnciv",
-    "description": "[NOT FINISHED] AdultUnciv is a adult-themed mod that aims to add various content including 1 civ, buildings, improvements and features.",
-    "author": "DeicideFelidae",
-    "url": "https://github.com/DeicideFelidae/AdultUnciv",
-    "stars": 14,
-    "updated": "2025-09-01T15:09:31Z",
-    "topics": [
-      "nsfw",
-      "unciv",
-      "unciv-fun",
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-fun",
-      "unciv-mod-graphics"
     ]
   },
   {
@@ -602,29 +602,29 @@
     ]
   },
   {
+    "name": "Yet-Another-Civilization-Mod",
+    "description": "More Civilizations for Unciv! such as Belgium, Tanzania, Rhodesia, Habsburg Empire... etc... (more to come)",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Yet-Another-Civilization-Mod",
+    "stars": 13,
+    "updated": "2025-10-18T18:29:50Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
     "name": "Wakanda-for-Unciv",
     "description": "Play as Marvel's greatest civilization in Unciv. Unlock the secrets of the Sacred Mound and conquer the world!",
     "author": "SpacedOutChicken",
     "url": "https://github.com/SpacedOutChicken/Wakanda-for-Unciv",
-    "stars": 13,
-    "updated": "2025-06-22T15:39:05Z",
+    "stars": 12,
+    "updated": "2025-10-11T07:50:50Z",
     "topics": [
       "unciv",
       "unciv-mod",
       "unciv-mod-expansions",
       "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Yet-Another-Civilization-Mod",
-    "description": "More Civilizations for Unciv! such as Belgium, Tanzania, Rhodesia, Habsburg Empire... etc... (more to come)",
-    "author": "Gafaszt2",
-    "url": "https://github.com/Gafaszt2/Yet-Another-Civilization-Mod",
-    "stars": 12,
-    "updated": "2025-08-27T17:54:05Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
     ]
   },
   {
@@ -696,6 +696,18 @@
     ]
   },
   {
+    "name": "Lazybone-tilesets",
+    "description": "Huge tileset mod by Basil. New tile graphics 128✕128. Please leave a star if you like this tileset. In progress",
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/Lazybone-tilesets",
+    "stars": 10,
+    "updated": "2025-10-10T18:05:42Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-graphics"
+    ]
+  },
+  {
     "name": "Sheep-Meta",
     "description": "V 1.0: Sheep meta mod with lots of additions all around Sheep. Sheep civs, units and sheep on any tile! Best played with Tech Stopper Industrial, because it doesnt Includes sheep units past that era",
     "author": "RealBamboolord",
@@ -758,18 +770,6 @@
     ]
   },
   {
-    "name": "Lazybone-tilesets",
-    "description": "Huge tileset mod by Basil. New tile graphics 128✕128. Please leave a star if you like this tileset. In progress",
-    "author": "hachchch",
-    "url": "https://github.com/hachchch/Lazybone-tilesets",
-    "stars": 9,
-    "updated": "2025-07-22T17:23:21Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-graphics"
-    ]
-  },
-  {
     "name": "Absolute-Alpha-Frontier",
     "description": "AbsoluteUnits-styled unit textures for Alpha Frontier",
     "author": "carriontrooper",
@@ -782,24 +782,24 @@
     ]
   },
   {
-    "name": "Yet-Another-Music-Pack",
-    "description": "Music extrated from Youtube - Read the \"Readme\" text file for details!",
-    "author": "Gafaszt2",
-    "url": "https://github.com/Gafaszt2/Yet-Another-Music-Pack",
-    "stars": 9,
-    "updated": "2025-10-06T00:46:09Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-audio"
-    ]
-  },
-  {
     "name": "Additional-Music-Ambient",
     "description": "Additional Music - Ambient. Almost four hours of ambient music by Kevin McLeod, Author of the original Unciv tune.",
     "author": "SomeTroglodyte",
     "url": "https://github.com/SomeTroglodyte/Additional-Music-Ambient",
     "stars": 9,
     "updated": "2025-03-23T15:17:14Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-audio"
+    ]
+  },
+  {
+    "name": "Yet-Another-Music-Pack",
+    "description": "Music extrated from Youtube - Read the \"Readme\" text file for details!",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Yet-Another-Music-Pack",
+    "stars": 9,
+    "updated": "2025-10-06T00:46:09Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-audio"
@@ -831,19 +831,6 @@
     ]
   },
   {
-    "name": "Ark-s-UNCIV-Evolved",
-    "description": "Adds Ark Survival Evolved Stuff into Unciv (New Ruleset)",
-    "author": "Gafaszt2",
-    "url": "https://github.com/Gafaszt2/Ark-s-UNCIV-Evolved",
-    "stars": 8,
-    "updated": "2025-09-09T01:40:38Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun",
-      "unciv-mod-rulesets"
-    ]
-  },
-  {
     "name": "UncivWarhammer",
     "description": "Warhammer world for unciv",
     "author": "mouillerart",
@@ -857,12 +844,37 @@
     ]
   },
   {
+    "name": "Ark-s-UNCIV-Evolved",
+    "description": "Adds Ark Survival Evolved Stuff into Unciv (New Ruleset)",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Ark-s-UNCIV-Evolved",
+    "stars": 8,
+    "updated": "2025-11-11T02:05:26Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun",
+      "unciv-mod-rulesets"
+    ]
+  },
+  {
     "name": "Modern-Civilizations",
     "description": "Adds new nations",
     "author": "EmperorPinguin",
     "url": "https://github.com/EmperorPinguin/Modern-Civilizations",
     "stars": 8,
     "updated": "2024-12-09T08:34:20Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "UnCiv-Archive",
+    "description": "Blue Archive mod for UnCiv, v0.98. This mod contains a tech tree branch, policies, units and civilizations.",
+    "author": "SakiTheScout",
+    "url": "https://github.com/SakiTheScout/UnCiv-Archive",
+    "stars": 8,
+    "updated": "2025-10-29T19:41:52Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
@@ -1044,18 +1056,6 @@
     ]
   },
   {
-    "name": "My-Uncivilized-Ponies",
-    "description": "Yes. A Unciv Mod. ABOUT MY LITTLE PONY. But they're uncivlized or something,i dont know",
-    "author": "Canthinkofaname",
-    "url": "https://github.com/Canthinkofaname/My-Uncivilized-Ponies",
-    "stars": 7,
-    "updated": "2025-07-12T02:02:01Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
     "name": "CS-Overhaul",
     "description": "An overhaul mod that changes City States system to be somewhat civ 6-like. See details on each CS in Civilopedia. Or check this mod's GH page.",
     "author": "AceHank",
@@ -1080,12 +1080,12 @@
     ]
   },
   {
-    "name": "UnCiv-Archive",
-    "description": "Blue Archive mod for UnCiv, v0.98. This mod contains a tech tree branch, policies, units and civilizations.",
-    "author": "SakiTheScout",
-    "url": "https://github.com/SakiTheScout/UnCiv-Archive",
+    "name": "My-Uncivilized-Ponies",
+    "description": "Yes. A Unciv Mod. ABOUT MY LITTLE PONY. But they're uncivlized or something,i dont know",
+    "author": "Canthinkofaname",
+    "url": "https://github.com/Canthinkofaname/My-Uncivilized-Ponies",
     "stars": 7,
-    "updated": "2025-10-08T17:24:29Z",
+    "updated": "2025-07-12T02:02:01Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
@@ -1128,6 +1128,18 @@
     ]
   },
   {
+    "name": "UnHax",
+    "description": "An overpowered UnCiv cheat mod. Latest Version: v1.18a",
+    "author": "not-navyblue",
+    "url": "https://github.com/not-navyblue/UnHax",
+    "stars": 7,
+    "updated": "2025-11-07T22:51:33Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
     "name": "More-Challenges",
     "description": "Want more in game challenges other than \"One City Challenge\"? This is the mod for you.",
     "author": "RealBamboolord",
@@ -1137,6 +1149,42 @@
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "CivBE-in-Alpha-Frontier",
+    "description": "Port of Civilization: Beyond Earth nations into Alpha Frontier ruleset. Includes Rising Tide DLC content.",
+    "author": "carriontrooper",
+    "url": "https://github.com/carriontrooper/CivBE-in-Alpha-Frontier",
+    "stars": 7,
+    "updated": "2025-10-03T08:03:04Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Dreams-of-Steam",
+    "description": "Extension to Smoky Skies Redux. Play as steampunk Aztecs and launch a capsule at the moon!",
+    "author": "SpacedOutChicken",
+    "url": "https://github.com/SpacedOutChicken/Dreams-of-Steam",
+    "stars": 7,
+    "updated": "2025-11-16T12:40:53Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "DeCiv-in-Alpha-Frontier",
+    "description": "What if the nations in DeCiv managed to reach the Alpha Frontier? Requires Alpha Frontier.",
+    "author": "carriontrooper",
+    "url": "https://github.com/carriontrooper/DeCiv-in-Alpha-Frontier",
+    "stars": 7,
+    "updated": "2025-10-22T18:38:55Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
     ]
   },
   {
@@ -1164,6 +1212,19 @@
     ]
   },
   {
+    "name": "Heritage-of-the-Forgotten",
+    "description": "A civilization pack that adds fictional ancient civilization, each with its real life counterpart similarities. These civs could be originated in my mind while others are in animes or movies",
+    "author": "JhandeFlores",
+    "url": "https://github.com/JhandeFlores/Heritage-of-the-Forgotten",
+    "stars": 6,
+    "updated": "2025-10-28T12:35:28Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-audio",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
     "name": "Project-Paddy-Field",
     "description": "This Unciv extension mod adds in the Wet Farm.",
     "author": "Angelonius",
@@ -1188,14 +1249,15 @@
     ]
   },
   {
-    "name": "Naciones-pa-Unciv-ES",
-    "description": "Un mod con naciones personalizadas para nosotros en el servidor hispano.",
-    "author": "Caballero-Arepa",
-    "url": "https://github.com/Caballero-Arepa/Naciones-pa-Unciv-ES",
+    "name": "Civ-VII-Nations",
+    "description": "This mod adds the nations of Civ VII into Unciv. ",
+    "author": "Kurwizimi",
+    "url": "https://github.com/Kurwizimi/Civ-VII-Nations",
     "stars": 6,
-    "updated": "2022-12-05T06:21:42Z",
+    "updated": "2025-11-17T07:47:44Z",
     "topics": [
       "unciv-mod",
+      "unciv-mod-expansions",
       "unciv-mod-fun"
     ]
   },
@@ -1213,12 +1275,24 @@
     ]
   },
   {
-    "name": "UnHax",
-    "description": "An overpowered UnCiv cheat mod. Latest Version: v1.18a",
-    "author": "not-navyblue",
-    "url": "https://github.com/not-navyblue/UnHax",
+    "name": "Naciones-pa-Unciv-ES",
+    "description": "Un mod con naciones personalizadas para nosotros en el servidor hispano.",
+    "author": "Caballero-Arepa",
+    "url": "https://github.com/Caballero-Arepa/Naciones-pa-Unciv-ES",
     "stars": 6,
-    "updated": "2025-09-20T16:22:27Z",
+    "updated": "2022-12-05T06:21:42Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Arepa-s-Canal-Mod",
+    "description": "Simple mod that implements a different way of making canals for ships.",
+    "author": "Caballero-Arepa",
+    "url": "https://github.com/Caballero-Arepa/Arepa-s-Canal-Mod",
+    "stars": 6,
+    "updated": "2025-05-21T10:19:49Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
@@ -1238,31 +1312,6 @@
     ]
   },
   {
-    "name": "Arepa-s-Canal-Mod",
-    "description": "Simple mod that implements a different way of making canals for ships.",
-    "author": "Caballero-Arepa",
-    "url": "https://github.com/Caballero-Arepa/Arepa-s-Canal-Mod",
-    "stars": 6,
-    "updated": "2025-05-21T10:19:49Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Plants-vs-UnZombies",
-    "description": "Conquer the world in the name of the dead, or defend all growing things! An Unciv mod inspired by Plants vs Zombies. Currently in alpha",
-    "author": "SpacedOutChicken",
-    "url": "https://github.com/SpacedOutChicken/Plants-vs-UnZombies",
-    "stars": 5,
-    "updated": "2024-03-20T11:11:53Z",
-    "topics": [
-      "unciv",
-      "unciv-mod",
-      "unciv-mod-rulesets"
-    ]
-  },
-  {
     "name": "Avatar-Legend-of-a-Civ",
     "description": "Unciv Avatar mod by Basil and hachchch",
     "author": "hachchch",
@@ -1271,19 +1320,6 @@
     "updated": "2024-09-06T15:47:40Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Heritage-of-the-Forgotten",
-    "description": "A civilization pack that adds fictional ancient civilization, each with its real life counterpart similarities. These civs could be originated in my mind while others are in animes or movies",
-    "author": "JhandeFlores",
-    "url": "https://github.com/JhandeFlores/Heritage-of-the-Forgotten",
-    "stars": 5,
-    "updated": "2025-10-10T17:05:58Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-audio",
       "unciv-mod-expansions"
     ]
   },
@@ -1338,37 +1374,24 @@
     ]
   },
   {
-    "name": "Project-PMC",
-    "description": "This mod adds mercenaries for certain nations of Unciv.",
-    "author": "Angelonius",
-    "url": "https://github.com/Angelonius/Project-PMC",
-    "stars": 5,
-    "updated": "2025-01-13T03:12:58Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Civ-VII-Nations",
-    "description": "This mod adds the nations of Civ VII into Unciv. ",
-    "author": "Kurwizimi",
-    "url": "https://github.com/Kurwizimi/Civ-VII-Nations",
-    "stars": 5,
-    "updated": "2025-10-09T17:09:15Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-fun"
-    ]
-  },
-  {
     "name": "Brave-New-World-Updated",
     "description": "An attempt to fix incompatibilities in ravignir's Unciv BNW mod, and hopefully add new BNW-related features as well.",
     "author": "chris03-dev",
     "url": "https://github.com/chris03-dev/Brave-New-World-Updated",
     "stars": 5,
     "updated": "2025-07-26T06:14:38Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Project-PMC",
+    "description": "This mod adds mercenaries for certain nations of Unciv.",
+    "author": "Angelonius",
+    "url": "https://github.com/Angelonius/Project-PMC",
+    "stars": 5,
+    "updated": "2025-01-13T03:12:58Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
@@ -1387,24 +1410,24 @@
     ]
   },
   {
-    "name": "Civ6-NLB-Edition-Tileset",
-    "description": null,
-    "author": "Malwen",
-    "url": "https://github.com/Malwen/Civ6-NLB-Edition-Tileset",
-    "stars": 5,
-    "updated": "2025-06-13T10:43:06Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-graphics"
-    ]
-  },
-  {
     "name": "Edges-Tileset",
     "description": "Tileset for Unciv Tile Edges",
     "author": "legacymtgsalvationuser69544",
     "url": "https://github.com/legacymtgsalvationuser69544/Edges-Tileset",
     "stars": 5,
     "updated": "2025-09-24T01:42:51Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-graphics"
+    ]
+  },
+  {
+    "name": "Civ6-NLB-Edition-Tileset",
+    "description": null,
+    "author": "Malwen",
+    "url": "https://github.com/Malwen/Civ6-NLB-Edition-Tileset",
+    "stars": 5,
+    "updated": "2025-06-13T10:43:06Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-graphics"
@@ -1440,7 +1463,7 @@
     "author": "RobLoach",
     "url": "https://github.com/RobLoach/Civ-V---Voices",
     "stars": 5,
-    "updated": "2025-10-08T16:00:16Z",
+    "updated": "2025-10-28T01:33:57Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-audio"
@@ -1483,6 +1506,30 @@
     ]
   },
   {
+    "name": "Steampunk-Nations-for-Deciv",
+    "description": "Some steampunkish nations for Deciv, sparked by the idea of a new steam renaissance after the bombs fell.",
+    "author": "carriontrooper",
+    "url": "https://github.com/carriontrooper/Steampunk-Nations-for-Deciv",
+    "stars": 5,
+    "updated": "2025-11-06T14:28:52Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Palengke",
+    "description": "An UnCiv mod that gives Philippine civilizations a \"shared\" unique building. Latest Version: v1.5",
+    "author": "not-navyblue",
+    "url": "https://github.com/not-navyblue/Palengke",
+    "stars": 5,
+    "updated": "2025-11-08T01:27:46Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
     "name": "Civllaris",
     "description": "Welcome to outer space",
     "author": "RaToss",
@@ -1507,6 +1554,19 @@
     ]
   },
   {
+    "name": "BNW-from-CN",
+    "description": "Unciv中文社区合力制作的美丽新世界特调模组",
+    "author": "AutumnPizazz",
+    "url": "https://github.com/AutumnPizazz/BNW-from-CN",
+    "stars": 4,
+    "updated": "2025-09-05T11:29:27Z",
+    "topics": [
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-rulesets"
+    ]
+  },
+  {
     "name": "Chaos-Era",
     "description": "Chaos Era is a ruleset mod on Unciv.If you like give me your star.",
     "author": "TheKaier",
@@ -1520,14 +1580,13 @@
     ]
   },
   {
-    "name": "BNW-from-CN",
-    "description": "Unciv中文社区合力制作的美丽新世界特调模组",
-    "author": "AutumnPizazz",
-    "url": "https://github.com/AutumnPizazz/BNW-from-CN",
+    "name": "Future-Expansion-2022-09-18",
+    "description": "A copy of Sullien's Future Expansion mod. All credits go to them.",
+    "author": "EmperorPinguin",
+    "url": "https://github.com/EmperorPinguin/Future-Expansion-2022-09-18",
     "stars": 4,
-    "updated": "2025-09-05T11:29:27Z",
+    "updated": "2024-05-11T17:27:52Z",
     "topics": [
-      "unciv",
       "unciv-mod",
       "unciv-mod-rulesets"
     ]
@@ -1545,15 +1604,55 @@
     ]
   },
   {
-    "name": "Future-Expansion-2022-09-18",
-    "description": "A copy of Sullien's Future Expansion mod. All credits go to them.",
-    "author": "EmperorPinguin",
-    "url": "https://github.com/EmperorPinguin/Future-Expansion-2022-09-18",
+    "name": "Plants-vs-UnZombies",
+    "description": "Conquer the world in the name of the dead, or defend all growing things! An Unciv mod inspired by Plants vs Zombies. Currently in alpha",
+    "author": "SpacedOutChicken",
+    "url": "https://github.com/SpacedOutChicken/Plants-vs-UnZombies",
     "stars": 4,
-    "updated": "2024-05-11T17:27:52Z",
+    "updated": "2025-11-09T17:43:21Z",
     "topics": [
+      "unciv",
       "unciv-mod",
       "unciv-mod-rulesets"
+    ]
+  },
+  {
+    "name": "Project-Tondo",
+    "description": "This is the updated version of Nirekin-sys's Tondo mod.",
+    "author": "Angelonius",
+    "url": "https://github.com/Angelonius/Project-Tondo",
+    "stars": 4,
+    "updated": "2025-01-02T14:12:38Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Forgotten-Factions-for-Deciv",
+    "description": "Reimagining or updating abandoned/discontinued older mods for Deciv, such as Dandelion, Elysium, etc.",
+    "author": "carriontrooper",
+    "url": "https://github.com/carriontrooper/Forgotten-Factions-for-Deciv",
+    "stars": 4,
+    "updated": "2025-10-22T03:51:42Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansion",
+      "unciv-mod-expansions",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Future-Worlds",
+    "description": "A mod that expands the future era, based upon Bouncymischa's Future Worlds mod for Civ V.",
+    "author": "Kurwizimi",
+    "url": "https://github.com/Kurwizimi/Future-Worlds",
+    "stars": 4,
+    "updated": "2025-11-16T13:28:04Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-fun"
     ]
   },
   {
@@ -1582,29 +1681,15 @@
     ]
   },
   {
-    "name": "Project-Tondo",
-    "description": "This is the updated version of Nirekin-sys's Tondo mod.",
-    "author": "Angelonius",
-    "url": "https://github.com/Angelonius/Project-Tondo",
+    "name": "Drones-Mod",
+    "description": "Mod for Unciv. Adds drones.",
+    "author": "sls1005",
+    "url": "https://github.com/sls1005/Drones-Mod",
     "stars": 4,
-    "updated": "2025-01-02T14:12:38Z",
+    "updated": "2025-10-29T19:46:37Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "More-WMDs",
-    "description": "Adds a few WMDs to destroy the world with.",
-    "author": "IsNss-DFFEF",
-    "url": "https://github.com/IsNss-DFFEF/More-WMDs",
-    "stars": 4,
-    "updated": "2025-08-22T09:22:30Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-fun",
-      "unciv-mod-wip"
     ]
   },
   {
@@ -1631,43 +1716,6 @@
       "unciv-mod",
       "unciv-mod-expansions",
       "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Star-Wars-for-Alpha-Frontier",
-    "description": "Star Wars nations for the Alpha Frontier mod. (WIP) Ver. 0.1",
-    "author": "Caballero-Arepa",
-    "url": "https://github.com/Caballero-Arepa/Star-Wars-for-Alpha-Frontier",
-    "stars": 4,
-    "updated": "2024-08-06T08:53:21Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-modsofmods"
-    ]
-  },
-  {
-    "name": "Raze-anything",
-    "description": "Allows to raze any city",
-    "author": "Monokiro",
-    "url": "https://github.com/Monokiro/Raze-anything",
-    "stars": 4,
-    "updated": "2025-04-07T09:43:23Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "The-Etruscans-and-the-Samnites",
-    "description": "Adds the Samnites and Etruscans as Uncivilizations",
-    "author": "OmberMan",
-    "url": "https://github.com/OmberMan/The-Etruscans-and-the-Samnites",
-    "stars": 4,
-    "updated": "2024-12-09T08:53:35Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
     ]
   },
   {
@@ -1709,17 +1757,29 @@
     ]
   },
   {
-    "name": "More-Wonders",
-    "description": "Adds over 100 new wonders to Unciv, all with unique abilities and powerful stats to add to your game. Compatible with the 'Nobles and Merchants' ruleset.",
-    "author": "Kurwizimi",
-    "url": "https://github.com/Kurwizimi/More-Wonders",
+    "name": "The-Etruscans-and-the-Samnites",
+    "description": "Adds the Samnites and Etruscans as Uncivilizations",
+    "author": "OmberMan",
+    "url": "https://github.com/OmberMan/The-Etruscans-and-the-Samnites",
     "stars": 4,
-    "updated": "2025-09-17T12:09:37Z",
+    "updated": "2024-12-09T08:53:35Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "More-WMDs",
+    "description": "Adds a few WMDs to destroy the world with.",
+    "author": "IsNss-DFFEF",
+    "url": "https://github.com/IsNss-DFFEF/More-WMDs",
+    "stars": 4,
+    "updated": "2025-10-31T05:14:26Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions",
       "unciv-mod-fun",
-      "unciv-mod-graphics"
+      "unciv-mod-wip"
     ]
   },
   {
@@ -1735,12 +1795,87 @@
     ]
   },
   {
+    "name": "More-Wonders",
+    "description": "Adds over 100 new wonders to Unciv, all with unique abilities and powerful stats to add to your game. Compatible with the 'Nobles and Merchants' ruleset and the 'Civ V Brave New World's mod.",
+    "author": "Kurwizimi",
+    "url": "https://github.com/Kurwizimi/More-Wonders",
+    "stars": 4,
+    "updated": "2025-10-25T18:15:25Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-fun",
+      "unciv-mod-graphics"
+    ]
+  },
+  {
+    "name": "Raze-anything",
+    "description": "Allows to raze any city",
+    "author": "Monokiro",
+    "url": "https://github.com/Monokiro/Raze-anything",
+    "stars": 4,
+    "updated": "2025-04-07T09:43:23Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Star-Wars-for-Alpha-Frontier",
+    "description": "Star Wars nations for the Alpha Frontier mod. (WIP) Ver. 0.1",
+    "author": "Caballero-Arepa",
+    "url": "https://github.com/Caballero-Arepa/Star-Wars-for-Alpha-Frontier",
+    "stars": 4,
+    "updated": "2025-11-11T03:44:50Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
     "name": "Tactical-unit-set",
     "description": "Unit set made by Adam, with higher resolution units.",
     "author": "Caballero-Arepa",
     "url": "https://github.com/Caballero-Arepa/Tactical-unit-set",
     "stars": 4,
     "updated": "2025-09-24T03:04:43Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-graphics"
+    ]
+  },
+  {
+    "name": "Civ-V---Era-Popups",
+    "description": "Era popup screens for Unciv's Civ V Vanilla or G&K",
+    "author": "RobLoach",
+    "url": "https://github.com/RobLoach/Civ-V---Era-Popups",
+    "stars": 4,
+    "updated": "2025-11-03T09:37:15Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-graphics"
+    ]
+  },
+  {
+    "name": "RealTiles",
+    "description": "Realistic looking tile set for Unciv.",
+    "author": "andraaspar",
+    "url": "https://github.com/andraaspar/RealTiles",
+    "stars": 4,
+    "updated": "2025-11-03T09:44:27Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-graphics"
+    ]
+  },
+  {
+    "name": "More-edges",
+    "description": "Completes the edge tileset for HexaRealm",
+    "author": "hackedpassword",
+    "url": "https://github.com/hackedpassword/More-edges",
+    "stars": 4,
+    "updated": "2025-11-03T09:50:43Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-graphics"
@@ -1822,6 +1957,30 @@
     ]
   },
   {
+    "name": "Alpha-Frontier-New-Powers-Addon",
+    "description": "Several new nations for Alpha Frontier, including SET and more!",
+    "author": "carriontrooper",
+    "url": "https://github.com/carriontrooper/Alpha-Frontier-New-Powers-Addon",
+    "stars": 4,
+    "updated": "2025-10-22T18:37:04Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Order-of-Dagon-for-Deciv",
+    "description": "This mod just adds the Order of Dagon to Deciv 2.",
+    "author": "ReallyBasicName",
+    "url": "https://github.com/ReallyBasicName/Order-of-Dagon-for-Deciv",
+    "stars": 4,
+    "updated": "2025-10-22T03:54:32Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
     "name": "Origins",
     "description": "Origins",
     "author": "Monokiro",
@@ -1847,6 +2006,31 @@
     ]
   },
   {
+    "name": "LOTR-Reworked-plusplus",
+    "description": "this one is for my friends and me, mod is stolen as hell from Real Bamboolord and his friends.",
+    "author": "Pjokolom",
+    "url": "https://github.com/Pjokolom/LOTR-Reworked-plusplus",
+    "stars": 3,
+    "updated": "2025-10-30T07:06:37Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-rulesets"
+    ]
+  },
+  {
+    "name": "AntCiv",
+    "description": "- Alpha version 0.1 - Its time for conquest, as this world is not big enough for all of us. Only one colony will thrive, there shall be only one Antopia.",
+    "author": "Caballero-Arepa",
+    "url": "https://github.com/Caballero-Arepa/AntCiv",
+    "stars": 3,
+    "updated": "2025-10-29T19:40:22Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun",
+      "unciv-mod-rulesets"
+    ]
+  },
+  {
     "name": "Compound-Interest-Mod",
     "description": "A simple UnCiv mod adding compound interest",
     "author": "PLynx01",
@@ -1860,15 +2044,27 @@
     ]
   },
   {
-    "name": "Forgotten-Factions-for-Deciv",
-    "description": "Reimagining or updating abandoned/discontinued older mods for Deciv, such as Dandelion, Elysium, etc.",
-    "author": "carriontrooper",
-    "url": "https://github.com/carriontrooper/Forgotten-Factions-for-Deciv",
+    "name": "Alpha-Frontier-Terraforming-Expantion",
+    "description": "A mod that Expantion Terraforming Victory for Alpha Frontier New Tech and Building and Terraforming Status",
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/Alpha-Frontier-Terraforming-Expantion",
     "stars": 3,
-    "updated": "2025-09-16T16:27:05Z",
+    "updated": "2025-04-26T13:29:45Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-expansion",
+      "unciv-mod-expansions",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Uncivilized-Expansion",
+    "description": "Another minor side project which may or may not be a small step towards a greater enhancement mod for Unciv - this one adds more buildings and wonders (importing several of them from Civ 5/6 scenarios or other Civ games) and augments select civs from other mods. Also very much a WIP. Requires the BNW mod.",
+    "author": "the-s-is-silent",
+    "url": "https://github.com/the-s-is-silent/Uncivilized-Expansion",
+    "stars": 3,
+    "updated": "2025-01-29T14:18:49Z",
+    "topics": [
+      "unciv-mod",
       "unciv-mod-expansions",
       "unciv-mod-modsofmods"
     ]
@@ -1900,56 +2096,6 @@
     ]
   },
   {
-    "name": "Alpha-Frontier-Terraforming-Expantion",
-    "description": "A mod that Expantion Terraforming Victory for Alpha Frontier New Tech and Building and Terraforming Status",
-    "author": "hachchch",
-    "url": "https://github.com/hachchch/Alpha-Frontier-Terraforming-Expantion",
-    "stars": 3,
-    "updated": "2025-04-26T13:29:45Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-modsofmods"
-    ]
-  },
-  {
-    "name": "Uncivilized-Expansion",
-    "description": "Another minor side project which may or may not be a small step towards a greater enhancement mod for Unciv - this one adds more buildings and wonders (importing several of them from Civ 5/6 scenarios or other Civ games) and augments select civs from other mods. Also very much a WIP. Requires the BNW mod.",
-    "author": "the-s-is-silent",
-    "url": "https://github.com/the-s-is-silent/Uncivilized-Expansion",
-    "stars": 3,
-    "updated": "2025-01-29T14:18:49Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-modsofmods"
-    ]
-  },
-  {
-    "name": "Drones-Mod",
-    "description": "Mod for Unciv. Adds drones.",
-    "author": "sls1005",
-    "url": "https://github.com/sls1005/Drones-Mod",
-    "stars": 3,
-    "updated": "2025-07-30T03:50:11Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Project-Kaigun",
-    "description": "This mod has hybrid naval units.",
-    "author": "Angelonius",
-    "url": "https://github.com/Angelonius/Project-Kaigun",
-    "stars": 3,
-    "updated": "2025-07-30T07:38:20Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
     "name": "North-Korea-Expanded-Mod",
     "description": "Expanded Mod of North Korea Mod(with Korean People's Army and Great Leader Comrade)",
     "author": "sirius903",
@@ -1972,6 +2118,18 @@
       "unciv-mod",
       "unciv-mod-expansions",
       "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Project-Kaigun",
+    "description": "This mod has hybrid naval units.",
+    "author": "Angelonius",
+    "url": "https://github.com/Angelonius/Project-Kaigun",
+    "stars": 3,
+    "updated": "2025-07-30T07:38:20Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
     ]
   },
   {
@@ -2011,6 +2169,18 @@
     ]
   },
   {
+    "name": "BasuHex-Tileset",
+    "description": "A new tileset created by Basil. Work in progress",
+    "author": "EmperorPinguin",
+    "url": "https://github.com/EmperorPinguin/BasuHex-Tileset",
+    "stars": 3,
+    "updated": "2025-11-03T09:54:43Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-graphics"
+    ]
+  },
+  {
     "name": "WhiteDotTexture",
     "description": "A unciv texture mod adds background icon",
     "author": "LootDust",
@@ -2023,39 +2193,27 @@
     ]
   },
   {
-    "name": "Civ-V---Era-Popups",
-    "description": "Era popup screens for Unciv's Civ V Vanilla or G&K",
-    "author": "RobLoach",
-    "url": "https://github.com/RobLoach/Civ-V---Era-Popups",
+    "name": "5HexNB",
+    "description": "5Hex - The Non-Blended edition",
+    "author": "ravignir",
+    "url": "https://github.com/ravignir/5HexNB",
     "stars": 3,
-    "updated": "2025-09-24T04:04:36Z",
+    "updated": "2025-10-15T08:23:49Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-graphics"
     ]
   },
   {
-    "name": "RealTiles",
-    "description": "Realistic looking tile set for Unciv.",
-    "author": "andraaspar",
-    "url": "https://github.com/andraaspar/RealTiles",
+    "name": "Civ-V-Music-Pack",
+    "description": "Kiss the silence goodbye! Now you can listen to the Civ V soundtrack in UnCiv, including all individual Civ themes and some ambient tracks!",
+    "author": "Kurwizimi",
+    "url": "https://github.com/Kurwizimi/Civ-V-Music-Pack",
     "stars": 3,
-    "updated": "2025-08-11T15:07:36Z",
+    "updated": "2025-10-26T02:27:48Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-graphics"
-    ]
-  },
-  {
-    "name": "More-edges",
-    "description": "Completes the edge tileset for HexaRealm",
-    "author": "hackedpassword",
-    "url": "https://github.com/hackedpassword/More-edges",
-    "stars": 3,
-    "updated": "2025-07-18T23:12:31Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-graphics"
+      "unciv-mod-audio"
     ]
   },
   {
@@ -2133,16 +2291,15 @@
     ]
   },
   {
-    "name": "Zombie-Apocalypse-DEMO",
-    "description": "This is a ruleset mod for a Zombie Apocalypse themed world. The mod is still in work progress, so if you have any suggestions, visit the 'Zombie Apocalypse Ruleset' thread in the Unciv discord server or in this mod's github repository. Have a nice day!",
-    "author": "Wheelchair2",
-    "url": "https://github.com/Wheelchair2/Zombie-Apocalypse-DEMO",
-    "stars": 2,
-    "updated": "2025-09-26T07:44:28Z",
+    "name": "Communism-on-Wasteland",
+    "description": "A mod for Deciv-redux which is a mod for Unciv, I guess it works.",
+    "author": "chenxing61",
+    "url": "https://github.com/chenxing61/Communism-on-Wasteland",
+    "stars": 3,
+    "updated": "2025-10-18T07:24:36Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-fun",
-      "unciv-mod-rulesets"
+      "unciv-mod-modsofmods"
     ]
   },
   {
@@ -2171,6 +2328,19 @@
     ]
   },
   {
+    "name": "Zombie-Apocalypse-DEMO",
+    "description": "This is a ruleset mod for a Zombie Apocalypse themed world. The mod is still in work progress, so if you have any suggestions, visit the 'Zombie Apocalypse Ruleset' thread in the Unciv discord server or in this mod's github repository. Have a nice day!",
+    "author": "Wheelchair2",
+    "url": "https://github.com/Wheelchair2/Zombie-Apocalypse-DEMO",
+    "stars": 2,
+    "updated": "2025-10-18T04:58:28Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun",
+      "unciv-mod-rulesets"
+    ]
+  },
+  {
     "name": "ColonialWar",
     "description": "v 0.6.65-expruturnal",
     "author": "Pjokolom",
@@ -2179,31 +2349,6 @@
     "updated": "2025-10-07T17:45:41Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-rulesets"
-    ]
-  },
-  {
-    "name": "LOTR-Reworked-plusplus",
-    "description": "this one is for my friends and me, mod is stolen as hell from Real Bamboolord and his friends.",
-    "author": "Pjokolom",
-    "url": "https://github.com/Pjokolom/LOTR-Reworked-plusplus",
-    "stars": 2,
-    "updated": "2025-05-19T08:42:31Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-rulesets"
-    ]
-  },
-  {
-    "name": "AntCiv",
-    "description": "- Alpha version 0.1 - Its time for conquest, as this world is not big enough for all of us. Only one colony will thrive, there shall be only one Antopia.",
-    "author": "Caballero-Arepa",
-    "url": "https://github.com/Caballero-Arepa/AntCiv",
-    "stars": 2,
-    "updated": "2025-01-01T02:19:04Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun",
       "unciv-mod-rulesets"
     ]
   },
@@ -2248,25 +2393,12 @@
     ]
   },
   {
-    "name": "Future-Worlds",
-    "description": "A mod that expands the future era, based upon Bouncymischa's Future Worlds mod for Civ V.",
-    "author": "Kurwizimi",
-    "url": "https://github.com/Kurwizimi/Future-Worlds",
+    "name": "Tank-Customize",
+    "description": "久しぶりに作ったUncivのmodです。以上。　This is a Unciv mod that I made for the first time in a while. that's all",
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/Tank-Customize",
     "stars": 2,
-    "updated": "2025-07-12T10:38:14Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Project-Felipe",
-    "description": "This is a mod for UnCiv where I add the Philippines as led by it's first king, Felipe I (a.k.a Felipe II of Spain)",
-    "author": "Angelonius",
-    "url": "https://github.com/Angelonius/Project-Felipe",
-    "stars": 2,
-    "updated": "2025-01-02T15:08:02Z",
+    "updated": "2025-02-13T16:34:48Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
@@ -2297,18 +2429,6 @@
     ]
   },
   {
-    "name": "Tank-Customize",
-    "description": "久しぶりに作ったUncivのmodです。以上。　This is a Unciv mod that I made for the first time in a while. that's all",
-    "author": "hachchch",
-    "url": "https://github.com/hachchch/Tank-Customize",
-    "stars": 2,
-    "updated": "2025-02-13T16:34:48Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
     "name": "DeCiv-Unit-Limiting",
     "description": "Limits Unit build-up. Expect more difficulty building and holding a large army. Works with DeCiv Redux and DeCiv 2",
     "author": "Calais-Osterrepublic",
@@ -2322,36 +2442,36 @@
     ]
   },
   {
-    "name": "Temporary-Capital-Mod",
-    "description": "Mod for Unciv. Adds a building.",
-    "author": "sls1005",
-    "url": "https://github.com/sls1005/Temporary-Capital-Mod",
-    "stars": 2,
-    "updated": "2025-01-07T13:44:59Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Rumia-Touhou-Mod",
-    "description": "A mod of Rumia from Touhou Project, supposedly making Rumia a playable unit. You may want to update this mod regularly. That's all, wish you enjoy the mod!",
-    "author": "Wheelchair2",
-    "url": "https://github.com/Wheelchair2/Rumia-Touhou-Mod",
-    "stars": 2,
-    "updated": "2023-07-05T12:28:10Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
     "name": "Total-Domination",
     "description": "An Unciv mod which re-adds the original Domination victory, requiring all cities to be captured.",
     "author": "Skekdog",
     "url": "https://github.com/Skekdog/Total-Domination",
     "stars": 2,
     "updated": "2024-12-09T09:10:32Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Project-Felipe",
+    "description": "This is a mod for UnCiv where I add the Philippines as led by it's first king, Felipe I (a.k.a Felipe II of Spain)",
+    "author": "Angelonius",
+    "url": "https://github.com/Angelonius/Project-Felipe",
+    "stars": 2,
+    "updated": "2025-01-02T15:08:02Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Temporary-Capital-Mod",
+    "description": "Mod for Unciv. Adds a building.",
+    "author": "sls1005",
+    "url": "https://github.com/sls1005/Temporary-Capital-Mod",
+    "stars": 2,
+    "updated": "2025-01-07T13:44:59Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
@@ -2383,17 +2503,27 @@
     ]
   },
   {
-    "name": "LM2-Extension",
-    "description": "game——unciv——LM2-Extension mod",
-    "author": "2652226316",
-    "url": "https://github.com/2652226316/LM2-Extension",
+    "name": "Rumia-Touhou-Mod",
+    "description": "A mod of Rumia from Touhou Project, supposedly making Rumia a playable unit. You may want to update this mod regularly. That's all, wish you enjoy the mod!",
+    "author": "Wheelchair2",
+    "url": "https://github.com/Wheelchair2/Rumia-Touhou-Mod",
     "stars": 2,
-    "updated": "2024-10-19T06:06:10Z",
+    "updated": "2023-07-05T12:28:10Z",
     "topics": [
-      "unciv",
       "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-modsofmods"
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Gods-and-Spells",
+    "description": "Adds magic and increased strategy to unciv",
+    "author": "GameCobra",
+    "url": "https://github.com/GameCobra/Gods-and-Spells",
+    "stars": 2,
+    "updated": "2025-11-10T15:30:37Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
     ]
   },
   {
@@ -2407,18 +2537,6 @@
       "unciv-mod",
       "unciv-mod-expansions",
       "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "hsm-til-MET",
-    "description": "Use horseman and its UU with Alhambra!",
-    "author": "saud2410",
-    "url": "https://github.com/saud2410/hsm-til-MET",
-    "stars": 2,
-    "updated": "2023-01-14T12:22:39Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
     ]
   },
   {
@@ -2461,16 +2579,28 @@
   },
   {
     "name": "Doge-Fan-Nations",
-    "description": "My first addictive Unciv mod.There're 9 Fan Nations right now.U'll love it:)",
+    "description": "This is my first addictive Unciv mod.There're 12 Fan Nations right now.U'll love it:)",
     "author": "2804312531",
     "url": "https://github.com/2804312531/Doge-Fan-Nations",
     "stars": 2,
-    "updated": "2025-10-08T08:58:52Z",
+    "updated": "2025-10-22T07:45:53Z",
     "topics": [
       "unciv",
       "unciv-mod",
       "unciv-mod-expansions",
       "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Hadrodia-RP-game",
+    "description": "Don't supposed to be used outside of this particular game, exclusive features will eventually be released to a separate mod",
+    "author": "RealBamboolord",
+    "url": "https://github.com/RealBamboolord/Hadrodia-RP-game",
+    "stars": 2,
+    "updated": "2025-04-08T17:43:52Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
     ]
   },
   {
@@ -2511,27 +2641,17 @@
     ]
   },
   {
-    "name": "Hadrodia-RP-game",
-    "description": "Don't supposed to be used outside of this particular game, exclusive features will eventually be released to a separate mod",
-    "author": "RealBamboolord",
-    "url": "https://github.com/RealBamboolord/Hadrodia-RP-game",
+    "name": "LM2-Extension",
+    "description": "game——unciv——LM2-Extension mod",
+    "author": "2652226316",
+    "url": "https://github.com/2652226316/LM2-Extension",
     "stars": 2,
-    "updated": "2025-04-08T17:43:52Z",
+    "updated": "2024-10-19T06:06:10Z",
     "topics": [
+      "unciv",
       "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Fantasy-Extras",
-    "description": "An addon for Epic of fantasy, can be used with other mods or on its own but it will be balanced around Epic of Fantasy.",
-    "author": "PhiRite",
-    "url": "https://github.com/PhiRite/Fantasy-Extras",
-    "stars": 2,
-    "updated": "2025-09-29T16:54:38Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
+      "unciv-mod-expansions",
+      "unciv-mod-modsofmods"
     ]
   },
   {
@@ -2547,13 +2667,14 @@
     ]
   },
   {
-    "name": "Horses-and-Iron-mod-fixed-version",
-    "description": "Horses-and-Iron-mod- fixed of  the current Unciv version",
-    "author": "Rex1um7",
-    "url": "https://github.com/Rex1um7/Horses-and-Iron-mod-fixed-version",
+    "name": "UncivRemixed",
+    "description": null,
+    "author": "ryflan3",
+    "url": "https://github.com/ryflan3/UncivRemixed",
     "stars": 2,
-    "updated": "2025-06-15T06:40:39Z",
+    "updated": "2024-11-24T06:00:00Z",
     "topics": [
+      "unciv",
       "unciv-mod",
       "unciv-mod-expansions"
     ]
@@ -2566,19 +2687,6 @@
     "stars": 2,
     "updated": "2025-01-02T14:48:20Z",
     "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "UncivRemixed",
-    "description": null,
-    "author": "ryflan3",
-    "url": "https://github.com/ryflan3/UncivRemixed",
-    "stars": 2,
-    "updated": "2024-11-24T06:00:00Z",
-    "topics": [
-      "unciv",
       "unciv-mod",
       "unciv-mod-expansions"
     ]
@@ -2636,6 +2744,30 @@
     ]
   },
   {
+    "name": "Fantasy-Extras",
+    "description": "An addon for Epic of fantasy, can be used with other mods or on its own but it will be balanced around Epic of Fantasy.",
+    "author": "PhiRite",
+    "url": "https://github.com/PhiRite/Fantasy-Extras",
+    "stars": 2,
+    "updated": "2025-10-20T05:55:11Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "hsm-til-MET",
+    "description": "Use horseman and its UU with Alhambra!",
+    "author": "saud2410",
+    "url": "https://github.com/saud2410/hsm-til-MET",
+    "stars": 2,
+    "updated": "2023-01-14T12:22:39Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
     "name": "LM-DLC-War-or-Peace",
     "description": "This is a DLC of the LM module, but it is applicable to most mods (including G&K). War can only be declared through trades and diplomatic relations cannot be changed.",
     "author": "Jiangeshi",
@@ -2685,24 +2817,24 @@
     ]
   },
   {
+    "name": "Horses-and-Iron-mod-fixed-version",
+    "description": "Horses-and-Iron-mod- fixed of  the current Unciv version",
+    "author": "Rex1um7",
+    "url": "https://github.com/Rex1um7/Horses-and-Iron-mod-fixed-version",
+    "stars": 2,
+    "updated": "2025-06-15T06:40:39Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
     "name": "AFX",
     "description": "Alpha Effects (AFX). Graphics update to 256px for FantasyHex tileset (mainly for Alpha Frontier) and HexaRealm tlies for base Unciv. Set the 'perm audio/visual' checkbox to activate.",
     "author": "hackedpassword",
     "url": "https://github.com/hackedpassword/AFX",
     "stars": 2,
     "updated": "2025-03-23T15:20:48Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-graphics"
-    ]
-  },
-  {
-    "name": "BasuHex-Tileset",
-    "description": "A new tileset created by Basil. Work in progress",
-    "author": "EmperorPinguin",
-    "url": "https://github.com/EmperorPinguin/BasuHex-Tileset",
-    "stars": 2,
-    "updated": "2024-06-30T18:51:12Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-graphics"
@@ -2728,18 +2860,6 @@
     "url": "https://github.com/artkolobok/Colored-Religions",
     "stars": 2,
     "updated": "2024-08-31T19:14:55Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-graphics"
-    ]
-  },
-  {
-    "name": "5HexNB",
-    "description": "5Hex - The Non-Blended edition",
-    "author": "ravignir",
-    "url": "https://github.com/ravignir/5HexNB",
-    "stars": 2,
-    "updated": "2022-12-03T09:35:20Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-graphics"
@@ -2796,6 +2916,30 @@
     ]
   },
   {
+    "name": "Echoes-of-Auriga-for-UnCiv",
+    "description": "This mod adds most of the Endless Legend soundtrack as ambient music for Unciv. If you also have my Endless Enciv mod, each faction will also get their faction theme music.",
+    "author": "LittlePuny",
+    "url": "https://github.com/LittlePuny/Echoes-of-Auriga-for-UnCiv",
+    "stars": 2,
+    "updated": "2024-06-23T02:20:51Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-audio"
+    ]
+  },
+  {
+    "name": "Music-by-Sascha-Ende-for-Unciv",
+    "description": "Just a collection of 25 slow, easy to listen to, otherwise almost randomly picked tracks from one free music site: filmmusic.io",
+    "author": "SomeTroglodyte",
+    "url": "https://github.com/SomeTroglodyte/Music-by-Sascha-Ende-for-Unciv",
+    "stars": 2,
+    "updated": "2024-06-25T07:46:41Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-audio"
+    ]
+  },
+  {
     "name": "Yelwz_King",
     "description": "Colziand Brignze is an ultimate mod of ColziandKing and YelwzBrignze with music and displays.",
     "author": "YelwzBrignze",
@@ -2821,48 +2965,12 @@
     ]
   },
   {
-    "name": "Echoes-of-Auriga-for-UnCiv",
-    "description": "This mod adds most of the Endless Legend soundtrack as ambient music for Unciv. If you also have my Endless Enciv mod, each faction will also get their faction theme music.",
-    "author": "LittlePuny",
-    "url": "https://github.com/LittlePuny/Echoes-of-Auriga-for-UnCiv",
-    "stars": 2,
-    "updated": "2024-06-23T02:20:51Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-audio"
-    ]
-  },
-  {
-    "name": "Music-by-Sascha-Ende-for-Unciv",
-    "description": "Just a collection of 25 slow, easy to listen to, otherwise almost randomly picked tracks from one free music site: filmmusic.io",
-    "author": "SomeTroglodyte",
-    "url": "https://github.com/SomeTroglodyte/Music-by-Sascha-Ende-for-Unciv",
-    "stars": 2,
-    "updated": "2024-06-25T07:46:41Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-audio"
-    ]
-  },
-  {
     "name": "Civ-3---Music",
     "description": "Music from Civilization 3 for Unciv. Select \"permanent audiovisual mod\".",
     "author": "RobLoach",
     "url": "https://github.com/RobLoach/Civ-3---Music",
     "stars": 2,
     "updated": "2025-06-29T16:00:19Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-audio"
-    ]
-  },
-  {
-    "name": "Civ-V-Music-Pack",
-    "description": "Kiss the silence goodbye! Now you can listen to the Civ V soundtrack in UnCiv, including all individual Civ themes and some ambient tracks!",
-    "author": "Kurwizimi",
-    "url": "https://github.com/Kurwizimi/Civ-V-Music-Pack",
-    "stars": 2,
-    "updated": "2025-08-31T10:04:07Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-audio"
@@ -2888,7 +2996,7 @@
     "author": "Caballero-Arepa",
     "url": "https://github.com/Caballero-Arepa/Mapping-Tools-for-Unciv",
     "stars": 2,
-    "updated": "2024-08-08T04:58:24Z",
+    "updated": "2025-11-11T03:44:09Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-maps"
@@ -2924,7 +3032,19 @@
     "author": "Gafaszt2",
     "url": "https://github.com/Gafaszt2/Media-and-Random-Civilizations",
     "stars": 2,
-    "updated": "2025-07-09T04:09:29Z",
+    "updated": "2025-11-06T00:28:17Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Critical-Damage",
+    "description": "You probably know that luck is essential to winning in the real world. Social competition, negotiation, poker, games...the reality is that luck is involved. This mod adds some of those elements to Unciv.",
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/Critical-Damage",
+    "stars": 2,
+    "updated": "2025-10-07T19:52:23Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
@@ -2955,30 +3075,6 @@
     ]
   },
   {
-    "name": "New-Maid-Empire",
-    "description": null,
-    "author": "k-oa",
-    "url": "https://github.com/k-oa/New-Maid-Empire",
-    "stars": 2,
-    "updated": "2025-03-16T12:12:49Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Critical-Damage",
-    "description": "You probably know that luck is essential to winning in the real world. Social competition, negotiation, poker, games...the reality is that luck is involved. This mod adds some of those elements to Unciv.",
-    "author": "hachchch",
-    "url": "https://github.com/hachchch/Critical-Damage",
-    "stars": 2,
-    "updated": "2025-10-07T19:52:23Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
     "name": "A-Religion-For-Everyone",
     "description": "This mod effectively removes the Religion to be founded limit, letting everyone get a religion",
     "author": "RealBamboolord",
@@ -2991,62 +3087,12 @@
     ]
   },
   {
-    "name": "LostTec",
-    "description": "A UnCiv mod which is used as a sandbox modifier.NOT SUIT FOR NEW PLAYERS!",
-    "author": "LootDust",
-    "url": "https://github.com/LootDust/LostTec",
+    "name": "New-Maid-Empire",
+    "description": null,
+    "author": "k-oa",
+    "url": "https://github.com/k-oa/New-Maid-Empire",
     "stars": 2,
-    "updated": "2023-02-28T15:11:44Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Tech-Stopper-_WW1_",
-    "description": "This mod doesn't allow to continue on further techs, to the point that would be the WW1 techs. Tech Stopper Series.",
-    "author": "Caballero-Arepa",
-    "url": "https://github.com/Caballero-Arepa/Tech-Stopper-_WW1_",
-    "stars": 2,
-    "updated": "2024-08-08T04:58:22Z",
-    "topics": [
-      "tech-stopper-series",
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Sci-fi-Civs-Collection-Alpha-Frontier",
-    "description": "A mod adding Super Earth from Helldivers, Union from Lancer and The Imperium from 40k to Alpha Frontier",
-    "author": "ModernPaintGarden",
-    "url": "https://github.com/ModernPaintGarden/Sci-fi-Civs-Collection-Alpha-Frontier",
-    "stars": 2,
-    "updated": "2025-07-02T18:15:47Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun",
-      "unciv-mod-modsofmods"
-    ]
-  },
-  {
-    "name": "Unciv-Calculator",
-    "description": "Turn your favorite open-source strategy game into a simple calculator!",
-    "author": "SpacedOutChicken",
-    "url": "https://github.com/SpacedOutChicken/Unciv-Calculator",
-    "stars": 2,
-    "updated": "2025-08-02T10:08:26Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Unciv-Nigeria-mod",
-    "description": "this mod was made by .general_e enjoy :D",
-    "author": "Emandac",
-    "url": "https://github.com/Emandac/Unciv-Nigeria-mod",
-    "stars": 2,
-    "updated": "2025-05-30T20:08:08Z",
+    "updated": "2025-03-16T12:12:49Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
@@ -3059,6 +3105,18 @@
     "url": "https://github.com/Moonshade917/Lesotho",
     "stars": 2,
     "updated": "2023-01-08T15:02:45Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "LostTec",
+    "description": "A UnCiv mod which is used as a sandbox modifier.NOT SUIT FOR NEW PLAYERS!",
+    "author": "LootDust",
+    "url": "https://github.com/LootDust/LostTec",
+    "stars": 2,
+    "updated": "2023-02-28T15:11:44Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
@@ -3089,6 +3147,44 @@
     ]
   },
   {
+    "name": "Unciv-Calculator",
+    "description": "Turn your favorite open-source strategy game into a simple calculator!",
+    "author": "SpacedOutChicken",
+    "url": "https://github.com/SpacedOutChicken/Unciv-Calculator",
+    "stars": 2,
+    "updated": "2025-08-02T10:08:26Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Sci-fi-Civs-Collection-Alpha-Frontier",
+    "description": "A mod adding Super Earth from Helldivers, Union from Lancer and The Imperium from 40k to Alpha Frontier",
+    "author": "ModernPaintGarden",
+    "url": "https://github.com/ModernPaintGarden/Sci-fi-Civs-Collection-Alpha-Frontier",
+    "stars": 2,
+    "updated": "2025-07-02T18:15:47Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Tech-Stopper-_WW1_",
+    "description": "This mod doesn't allow to continue on further techs, to the point that would be the WW1 techs. Tech Stopper Series.",
+    "author": "Caballero-Arepa",
+    "url": "https://github.com/Caballero-Arepa/Tech-Stopper-_WW1_",
+    "stars": 2,
+    "updated": "2025-11-11T03:46:51Z",
+    "topics": [
+      "tech-stopper-series",
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
     "name": "RevealNaturalWonders",
     "description": "Just a small mod to reveal all Natural Wonders that spawns in the world (Spain buff?)",
     "author": "AceHank",
@@ -3110,6 +3206,55 @@
     "topics": [
       "unciv-mod",
       "unciv-mod-fun",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "CoeHarMod_LeaderPhotos",
+    "description": null,
+    "author": "AutumnPizazz",
+    "url": "https://github.com/AutumnPizazz/CoeHarMod_LeaderPhotos",
+    "stars": 2,
+    "updated": "2025-05-29T11:42:18Z",
+    "topics": [
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Wasteland-Commune",
+    "description": "Deciv mod, adds a op faction (unbalanced/test)",
+    "author": "TheresNoLama",
+    "url": "https://github.com/TheresNoLama/Wasteland-Commune",
+    "stars": 2,
+    "updated": "2024-10-10T09:43:22Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Undsc-Expansion-Alpha-Frontier",
+    "description": "A Collection of random changes to Alpha Frontier made by my lacking judgement.",
+    "author": "Jimmerslock",
+    "url": "https://github.com/Jimmerslock/Undsc-Expansion-Alpha-Frontier",
+    "stars": 2,
+    "updated": "2024-08-13T19:28:19Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Elysium-in-Alpha-Frontiers",
+    "description": "Elysium, the rare democracy of the nuclear wastes, has taken to the stars!",
+    "author": "AesirRaider",
+    "url": "https://github.com/AesirRaider/Elysium-in-Alpha-Frontiers",
+    "stars": 2,
+    "updated": "2025-11-06T18:55:33Z",
+    "topics": [
+      "unciv-mod",
       "unciv-mod-modsofmods"
     ]
   },
@@ -3216,42 +3361,6 @@
     ]
   },
   {
-    "name": "Arcane-mod-alpha",
-    "description": "A crude alpha of a WIP Unciv mod with magical themes - subject to change without notice",
-    "author": "SpacedOutChicken",
-    "url": "https://github.com/SpacedOutChicken/Arcane-mod-alpha",
-    "stars": 1,
-    "updated": "2025-06-16T00:20:47Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-rulesets"
-    ]
-  },
-  {
-    "name": "Civilization-Era",
-    "description": "rts with unciv",
-    "author": "TheKaier",
-    "url": "https://github.com/TheKaier/Civilization-Era",
-    "stars": 1,
-    "updated": "2025-04-04T13:24:18Z",
-    "topics": [
-      "unciv",
-      "unciv-mod",
-      "unciv-mod-rulesets"
-    ]
-  },
-  {
-    "name": "Adelle-Corp",
-    "description": null,
-    "author": "AdelleStuuu",
-    "url": "https://github.com/AdelleStuuu/Adelle-Corp",
-    "stars": 1,
-    "updated": "2024-08-31T08:42:56Z",
-    "topics": [
-      "unciv-mod-rulesets"
-    ]
-  },
-  {
     "name": "ashen-age-chronicles-testbed",
     "description": "A unciv mod set in a modern post-disaster world infested by exotic bioforms",
     "author": "GeneralWadaling",
@@ -3289,36 +3398,48 @@
     ]
   },
   {
-    "name": "Adventure-Time-Mod",
-    "description": "Adventure time ruleset mod (FantasyHex recommended)",
-    "author": "BennieCUBED",
-    "url": "https://github.com/BennieCUBED/Adventure-Time-Mod",
+    "name": "Civilization-Era",
+    "description": "rts with unciv",
+    "author": "TheKaier",
+    "url": "https://github.com/TheKaier/Civilization-Era",
     "stars": 1,
-    "updated": "2024-09-29T00:43:29Z",
+    "updated": "2025-04-04T13:24:18Z",
+    "topics": [
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-rulesets"
+    ]
+  },
+  {
+    "name": "Arcane-mod-alpha",
+    "description": "A crude alpha of a WIP Unciv mod with magical themes - subject to change without notice",
+    "author": "SpacedOutChicken",
+    "url": "https://github.com/SpacedOutChicken/Arcane-mod-alpha",
+    "stars": 1,
+    "updated": "2025-11-03T13:48:08Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
     ]
   },
   {
-    "name": "Cattius-Ancient-Total-war-Tweak",
-    "description": "Re-tweak Ancient Total war mod by Prod0ad (Hail Caesar) - <br>WHAT MY TWEAK IS ABOUT? -> Add new units: Naked Warrior, Limitanei, Veterans type units, mounted skirmisher, armored archer, armored horse archer,... (come with new veteran resource). -> Rebalacing almost all units, mostly on horseman and cavalry.  -> Add more promotion. Detail on github",
-    "author": "Mindless-Cattius",
-    "url": "https://github.com/Mindless-Cattius/Cattius-Ancient-Total-war-Tweak",
+    "name": "Adelle-Corp",
+    "description": null,
+    "author": "AdelleStuuu",
+    "url": "https://github.com/AdelleStuuu/Adelle-Corp",
     "stars": 1,
-    "updated": "2025-07-13T03:28:50Z",
+    "updated": "2024-08-31T08:42:56Z",
     "topics": [
-      "unciv-mod",
       "unciv-mod-rulesets"
     ]
   },
   {
-    "name": "The-Next-Millennium",
-    "description": "A modern-day ruleset. With the fall of the Soviet Union, the Cold War comes to an end. But what may come of the future? It's for you to decide...  (This ruleset uses FantasyHex.)",
-    "author": "VividValeOkay",
-    "url": "https://github.com/VividValeOkay/The-Next-Millennium",
+    "name": "UnCatan",
+    "description": "Bringing your favorite board game to the world of Unciv. Build your cities and score points to win!",
+    "author": "SpacedOutChicken",
+    "url": "https://github.com/SpacedOutChicken/UnCatan",
     "stars": 1,
-    "updated": "2025-09-25T02:52:22Z",
+    "updated": "2025-10-25T14:57:36Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
@@ -3338,12 +3459,60 @@
     ]
   },
   {
+    "name": "Adventure-Time-Mod",
+    "description": "Adventure time ruleset mod (FantasyHex recommended)",
+    "author": "BennieCUBED",
+    "url": "https://github.com/BennieCUBED/Adventure-Time-Mod",
+    "stars": 1,
+    "updated": "2024-09-29T00:43:29Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-rulesets"
+    ]
+  },
+  {
+    "name": "The-Next-Millennium",
+    "description": "A modern-day ruleset. With the fall of the Soviet Union, the Cold War comes to an end. But what may come of the future? It's for you to decide...  (This ruleset uses FantasyHex.)",
+    "author": "VividValeOkay",
+    "url": "https://github.com/VividValeOkay/The-Next-Millennium",
+    "stars": 1,
+    "updated": "2025-09-25T02:52:22Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-rulesets"
+    ]
+  },
+  {
+    "name": "Total-War-But-Turn-Based",
+    "description": "Re-tweak Ancient Total war mod by Prod0ad (Hail Caesar) - <br>WHAT MY TWEAK IS ABOUT? -> Add new units: Naked Warrior, Limitanei, Veterans type units, mounted skirmisher, armored archer, armored horse archer,... (come with new veteran resource). -> Rebalacing almost all units, mostly on horseman and cavalry.  -> Add more promotion. Detail on github",
+    "author": "Mindless-Cattius",
+    "url": "https://github.com/Mindless-Cattius/Total-War-But-Turn-Based",
+    "stars": 1,
+    "updated": "2025-11-17T13:47:58Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-rulesets"
+    ]
+  },
+  {
     "name": "Mythologia",
     "description": "A WIP ruleset mod inspired by Age of Mythology",
     "author": "amfauzn",
     "url": "https://github.com/amfauzn/Mythologia",
     "stars": 1,
     "updated": "2024-09-17T01:53:35Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-rulesets"
+    ]
+  },
+  {
+    "name": "Dynasty",
+    "description": "Dynasty",
+    "author": "Tea-Nai-Tea-Nai",
+    "url": "https://github.com/Tea-Nai-Tea-Nai/Dynasty",
+    "stars": 1,
+    "updated": "2025-11-02T14:59:31Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
@@ -3370,6 +3539,18 @@
     "url": "https://github.com/Angelonius/Project-Serbia",
     "stars": 1,
     "updated": "2024-08-08T04:58:21Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Adelle-s-Tiberium-Civ",
+    "description": "A mod about the command and conquer tiberium saga, it will be fixed and retired as it will be remade into a ruleset",
+    "author": "AdelleStuuu",
+    "url": "https://github.com/AdelleStuuu/Adelle-s-Tiberium-Civ",
+    "stars": 1,
+    "updated": "2024-08-31T08:44:20Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
@@ -3414,36 +3595,36 @@
     ]
   },
   {
-    "name": "BB-2-m.crzr",
-    "description": "Upgrade battleship to missile cruiser!",
-    "author": "saud2410",
-    "url": "https://github.com/saud2410/BB-2-m.crzr",
-    "stars": 1,
-    "updated": "2024-02-12T14:45:30Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Adelle-s-Tiberium-Civ",
-    "description": "A mod about the command and conquer tiberium saga, it will be fixed and retired as it will be remade into a ruleset",
-    "author": "AdelleStuuu",
-    "url": "https://github.com/AdelleStuuu/Adelle-s-Tiberium-Civ",
-    "stars": 1,
-    "updated": "2024-08-31T08:44:20Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
     "name": "Mod-More-Wonders",
     "description": "Mod for Unciv. Adds more wonders such as the tower of Babel, the Academy, and the Pantheon.",
     "author": "sls1005",
     "url": "https://github.com/sls1005/Mod-More-Wonders",
     "stars": 1,
     "updated": "2025-06-08T12:34:37Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Great-Farmer",
+    "description": "Mod, which adds a Great Farmer as a Great Personality, as well as a Policy for Food.",
+    "author": "marek22k",
+    "url": "https://github.com/marek22k/Great-Farmer",
+    "stars": 1,
+    "updated": "2024-12-31T02:25:14Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "BB-2-m.crzr",
+    "description": "Upgrade battleship to missile cruiser!",
+    "author": "saud2410",
+    "url": "https://github.com/saud2410/BB-2-m.crzr",
+    "stars": 1,
+    "updated": "2024-02-12T14:45:30Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
@@ -3473,87 +3654,6 @@
     "topics": [
       "unciv-mod",
       "unciv-mod-expansion",
-      "unciv-mod-expansions",
-      "unciv-mod-wip"
-    ]
-  },
-  {
-    "name": "Loof-_-Great-Generals-Can-Start-Golden-Ages",
-    "description": "Give Great Generals the ability to start Golden Ages. This used to be possible in G&K, but was since removed.",
-    "author": "unciv-loof",
-    "url": "https://github.com/unciv-loof/Loof-_-Great-Generals-Can-Start-Golden-Ages",
-    "stars": 1,
-    "updated": "2025-10-03T16:45:40Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Gods-and-Spells",
-    "description": "Adds magic and increased strategy to unciv",
-    "author": "GameCobra",
-    "url": "https://github.com/GameCobra/Gods-and-Spells",
-    "stars": 1,
-    "updated": "2025-10-03T17:39:15Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Great-Farmer",
-    "description": "Mod, which adds a Great Farmer as a Great Personality, as well as a Policy for Food.",
-    "author": "marek22k",
-    "url": "https://github.com/marek22k/Great-Farmer",
-    "stars": 1,
-    "updated": "2024-12-31T02:25:14Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "ColonialUSA",
-    "description": null,
-    "author": "ryflan3",
-    "url": "https://github.com/ryflan3/ColonialUSA",
-    "stars": 1,
-    "updated": "2024-11-28T03:13:31Z",
-    "topics": [
-      "unciv",
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "The-Knights-Templar",
-    "description": "Knights Templar Nation",
-    "author": "DeicideFelidae",
-    "url": "https://github.com/DeicideFelidae/The-Knights-Templar",
-    "stars": 1,
-    "updated": "2024-10-21T01:41:42Z",
-    "topics": [
-      "knights",
-      "order",
-      "templar",
-      "unciv",
-      "unciv-fun",
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-fun",
-      "unciv-mod-graphics"
-    ]
-  },
-  {
-    "name": "UTW-Redux",
-    "description": "A mod that aim to make warfare and terrain more realistic. And the successor to unciv terrain warfare. by: .general_e",
-    "author": "Emandac",
-    "url": "https://github.com/Emandac/UTW-Redux",
-    "stars": 1,
-    "updated": "2025-07-09T20:15:21Z",
-    "topics": [
-      "unciv-mod",
       "unciv-mod-expansions",
       "unciv-mod-wip"
     ]
@@ -3648,52 +3748,60 @@
     ]
   },
   {
-    "name": "Disease-mod",
-    "description": "A world without disease would be wonderful, but there is no world without disease in this world. This mod adds 15 diseases to unciv. For example, all units have a 4% chance of developing Tetanus when at the Farm tile.",
-    "author": "hachchch",
-    "url": "https://github.com/hachchch/Disease-mod",
+    "name": "Loof-_-Great-Generals-Can-Start-Golden-Ages",
+    "description": "Give Great Generals the ability to start Golden Ages. This used to be possible in G&K, but was since removed.",
+    "author": "unciv-loof",
+    "url": "https://github.com/unciv-loof/Loof-_-Great-Generals-Can-Start-Golden-Ages",
     "stars": 1,
-    "updated": "2024-07-19T23:12:06Z",
+    "updated": "2025-10-03T16:45:40Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
     ]
   },
   {
-    "name": "Yelo_Ruler",
-    "description": "Yelwz_King_Plus",
-    "author": "YelwzBrignze",
-    "url": "https://github.com/YelwzBrignze/Yelo_Ruler",
+    "name": "ColonialUSA",
+    "description": null,
+    "author": "ryflan3",
+    "url": "https://github.com/ryflan3/ColonialUSA",
     "stars": 1,
-    "updated": "2023-12-14T10:52:17Z",
+    "updated": "2024-11-28T03:13:31Z",
+    "topics": [
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "The-Knights-Templar",
+    "description": "Knights Templar Nation",
+    "author": "DeicideFelidae",
+    "url": "https://github.com/DeicideFelidae/The-Knights-Templar",
+    "stars": 1,
+    "updated": "2024-10-21T01:41:42Z",
+    "topics": [
+      "knights",
+      "order",
+      "templar",
+      "unciv",
+      "unciv-fun",
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-fun",
+      "unciv-mod-graphics"
+    ]
+  },
+  {
+    "name": "UTW-Redux",
+    "description": "A mod that aim to make warfare and terrain more realistic. And the successor to unciv terrain warfare. By: .general_e",
+    "author": "Emandac",
+    "url": "https://github.com/Emandac/UTW-Redux",
+    "stars": 1,
+    "updated": "2025-10-12T19:33:44Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions",
-      "unciv-mod-modsofmods"
-    ]
-  },
-  {
-    "name": "_StartingBonuses",
-    "description": "Tries to mimic millenia game starting bonuses",
-    "author": "tvconsole2019",
-    "url": "https://github.com/tvconsole2019/_StartingBonuses",
-    "stars": 1,
-    "updated": "2024-08-08T21:33:51Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Super-Speed-Mod",
-    "description": "슈퍼 스피드 모드",
-    "author": "sirius903",
-    "url": "https://github.com/sirius903/Super-Speed-Mod",
-    "stars": 1,
-    "updated": "2025-08-12T15:57:36Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
+      "unciv-mod-wip"
     ]
   },
   {
@@ -3718,20 +3826,6 @@
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Unciv-cheat-nation",
-    "description": "Use this mod when you want to have a god-tier nation in Unciv.",
-    "author": "nong04",
-    "url": "https://github.com/nong04/Unciv-cheat-nation",
-    "stars": 1,
-    "updated": "2025-10-07T10:28:10Z",
-    "topics": [
-      "mod",
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-fun"
     ]
   },
   {
@@ -3797,19 +3891,6 @@
     ]
   },
   {
-    "name": "Domination-10",
-    "description": "Ventus Nation. Replace all units with 4 times military power. Some units have unique abillity. Includes Civilian and Nuke. New God Difficulity. Have fun?",
-    "author": "Sarakaunciv",
-    "url": "https://github.com/Sarakaunciv/Domination-10",
-    "stars": 1,
-    "updated": "2025-07-21T13:13:38Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-fun"
-    ]
-  },
-  {
     "name": "Dimensiondogs-governments",
     "description": "Changes social policies to be different governments, many are incompatible with each other",
     "author": "Dimensiondog",
@@ -3835,12 +3916,12 @@
     ]
   },
   {
-    "name": "UncivCheatMeun",
-    "description": "Obtain buildings by activating technology, and build the modification effects you need. Note that this will damage the game balance! ! !",
-    "author": "Tonedome",
-    "url": "https://github.com/Tonedome/UncivCheatMeun",
+    "name": "Domination-10",
+    "description": "Ventus Nation. Replace all units with 4 times military power. Some units have unique abillity. Includes Civilian and Nuke. New God Difficulity. Have fun?",
+    "author": "Sarakaunciv",
+    "url": "https://github.com/Sarakaunciv/Domination-10",
     "stars": 1,
-    "updated": "2023-08-07T17:50:58Z",
+    "updated": "2025-07-21T13:13:38Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions",
@@ -3848,116 +3929,52 @@
     ]
   },
   {
-    "name": "Helicopters-Can-Fly",
-    "description": "Helicopter gunships can now fly over water without embarking. They're not that kind of ship!",
-    "author": "AaronCSchmitz",
-    "url": "https://github.com/AaronCSchmitz/Helicopters-Can-Fly",
+    "name": "Disease-mod",
+    "description": "A world without disease would be wonderful, but there is no world without disease in this world. This mod adds 15 diseases to unciv. For example, all units have a 4% chance of developing Tetanus when at the Farm tile.",
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/Disease-mod",
     "stars": 1,
-    "updated": "2024-12-30T12:36:45Z",
-    "topics": [
-      "unciv",
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "The-Great-Martian-War-GnK",
-    "description": "Adds a late game threat to your G&K experience. Inspired by H.G. Wells' War of the Worlds.",
-    "author": "Calais-Osterrepublic",
-    "url": "https://github.com/Calais-Osterrepublic/The-Great-Martian-War-GnK",
-    "stars": 1,
-    "updated": "2025-08-15T06:49:56Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Tokugawa",
-    "description": "Tokugawa Shogunate",
-    "author": "ryflan3",
-    "url": "https://github.com/ryflan3/Tokugawa",
-    "stars": 1,
-    "updated": "2024-05-15T05:45:38Z",
+    "updated": "2024-07-19T23:12:06Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
     ]
   },
   {
-    "name": "Cathare-unciv",
-    "description": "La civisilation cathare pour Unciv",
-    "author": "Infinity72",
-    "url": "https://github.com/Infinity72/Cathare-unciv",
+    "name": "Yelo_Ruler",
+    "description": "Yelwz_King_Plus",
+    "author": "YelwzBrignze",
+    "url": "https://github.com/YelwzBrignze/Yelo_Ruler",
     "stars": 1,
-    "updated": "2025-07-31T00:37:26Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Astructian-Warlords",
-    "description": "A mod for Unciv, which adds civilizations that I made up.  I aim to make them into my own game at some point, but also wanted to share them with the Unciv community.",
-    "author": "FlameTechSmite",
-    "url": "https://github.com/FlameTechSmite/Astructian-Warlords",
-    "stars": 1,
-    "updated": "2023-02-03T13:45:50Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Rek_Remix_by_Dsb",
-    "description": "这是unciv的mod ，简称rrd",
-    "author": "Dasongbing",
-    "url": "https://github.com/Dasongbing/Rek_Remix_by_Dsb",
-    "stars": 1,
-    "updated": "2025-03-05T08:44:43Z",
-    "topics": [
-      "unciv",
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Nuclear-subs-require-Uranium",
-    "description": "You know every time a nuclear sub is built, a little part of you suppresses the cheating guilt of knowing damn well that a nuclear sub needs a Uranium resource. If this crushing guilt is too much to manage, fear not, relief has arrived! This mod could help you to sleep better at night knowing you've conscientiously constructed a fair unit. 😴 Fixed",
-    "author": "hackedpassword",
-    "url": "https://github.com/hackedpassword/Nuclear-subs-require-Uranium",
-    "stars": 1,
-    "updated": "2025-09-01T21:50:01Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Civ-IV---Warlords",
-    "description": "Civ IV Warlords for Unciv. Depends on the Civ IV mod.",
-    "author": "RobLoach",
-    "url": "https://github.com/RobLoach/Civ-IV---Warlords",
-    "stars": 1,
-    "updated": "2025-06-29T15:59:42Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Ecvadicus",
-    "description": "WIP: This modification adds more civilizations to the game along with their unique bonuses, units, and buildings; it also edits previously existing ones and adds more religions and social institutions. Current version: 1.3br.alpha",
-    "author": "verdet-t3",
-    "url": "https://github.com/verdet-t3/Ecvadicus",
-    "stars": 1,
-    "updated": "2025-08-04T12:51:13Z",
+    "updated": "2023-12-14T10:52:17Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions",
       "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "_StartingBonuses",
+    "description": "Tries to mimic millenia game starting bonuses",
+    "author": "tvconsole2019",
+    "url": "https://github.com/tvconsole2019/_StartingBonuses",
+    "stars": 1,
+    "updated": "2024-08-08T21:33:51Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Super-Speed-Mod",
+    "description": "슈퍼 스피드 모드",
+    "author": "sirius903",
+    "url": "https://github.com/sirius903/Super-Speed-Mod",
+    "stars": 1,
+    "updated": "2025-08-12T15:57:36Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
     ]
   },
   {
@@ -4017,6 +4034,18 @@
     "url": "https://github.com/unciv-loof/Loof-_-EmperorPlus-Difficulty",
     "stars": 1,
     "updated": "2025-10-04T21:41:30Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Civ-IV---Warlords",
+    "description": "Civ IV Warlords for Unciv. Depends on the Civ IV mod.",
+    "author": "RobLoach",
+    "url": "https://github.com/RobLoach/Civ-IV---Warlords",
+    "stars": 1,
+    "updated": "2025-06-29T15:59:42Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
@@ -4086,6 +4115,94 @@
     ]
   },
   {
+    "name": "Ecvadicus",
+    "description": "WIP: This modification adds more civilizations to the game along with their unique bonuses, units, and buildings; it also edits previously existing ones and adds more religions and social institutions. Current version: 1.3br.alpha",
+    "author": "verdet-t3",
+    "url": "https://github.com/verdet-t3/Ecvadicus",
+    "stars": 1,
+    "updated": "2025-08-04T12:51:13Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Tokugawa",
+    "description": "Tokugawa Shogunate",
+    "author": "ryflan3",
+    "url": "https://github.com/ryflan3/Tokugawa",
+    "stars": 1,
+    "updated": "2024-05-15T05:45:38Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Cathare-unciv",
+    "description": "La civisilation cathare pour Unciv",
+    "author": "Infinity72",
+    "url": "https://github.com/Infinity72/Cathare-unciv",
+    "stars": 1,
+    "updated": "2025-07-31T00:37:26Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Rek_Remix_by_Dsb",
+    "description": "这是unciv的mod ，简称rrd",
+    "author": "Dasongbing",
+    "url": "https://github.com/Dasongbing/Rek_Remix_by_Dsb",
+    "stars": 1,
+    "updated": "2025-03-05T08:44:43Z",
+    "topics": [
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Nuclear-subs-require-Uranium",
+    "description": "You know every time a nuclear sub is built, a little part of you suppresses the cheating guilt of knowing damn well that a nuclear sub needs a Uranium resource. If this crushing guilt is too much to manage, fear not, relief has arrived! This mod could help you to sleep better at night knowing you've conscientiously constructed a fair unit. 😴 Fixed",
+    "author": "hackedpassword",
+    "url": "https://github.com/hackedpassword/Nuclear-subs-require-Uranium",
+    "stars": 1,
+    "updated": "2025-09-01T21:50:01Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Astructian-Warlords",
+    "description": "A mod for Unciv, which adds civilizations that I made up.  I aim to make them into my own game at some point, but also wanted to share them with the Unciv community.",
+    "author": "FlameTechSmite",
+    "url": "https://github.com/FlameTechSmite/Astructian-Warlords",
+    "stars": 1,
+    "updated": "2025-11-01T07:26:33Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Unciv-cheat-nation",
+    "description": "Use this mod when you want to have a god-tier nation in Unciv.",
+    "author": "nong04",
+    "url": "https://github.com/nong04/Unciv-cheat-nation",
+    "stars": 1,
+    "updated": "2025-10-07T10:28:10Z",
+    "topics": [
+      "mod",
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-fun"
+    ]
+  },
+  {
     "name": "Remove-Hill",
     "description": null,
     "author": "hachchch",
@@ -4112,24 +4229,24 @@
     ]
   },
   {
-    "name": "Fictional-Civs",
-    "description": "Adds many Fictional Civs. At the moment it only has the Eggman Empire, but soon, more will come.",
-    "author": "ReallyBasicName",
-    "url": "https://github.com/ReallyBasicName/Fictional-Civs",
-    "stars": 1,
-    "updated": "2025-05-27T18:59:04Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
     "name": "Unciv-Korea-Rework",
     "description": "한국 리워크 모드",
     "author": "sirius903",
     "url": "https://github.com/sirius903/Unciv-Korea-Rework",
     "stars": 1,
     "updated": "2025-08-12T09:43:38Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Fictional-Civs",
+    "description": "Adds many Fictional Civs. At the moment it only has the Eggman Empire, but soon, more will come.",
+    "author": "ReallyBasicName",
+    "url": "https://github.com/ReallyBasicName/Fictional-Civs",
+    "stars": 1,
+    "updated": "2025-05-27T18:59:04Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
@@ -4187,24 +4304,39 @@
     ]
   },
   {
+    "name": "UncivCheatMeun",
+    "description": "Obtain buildings by activating technology, and build the modification effects you need. Note that this will damage the game balance! ! !",
+    "author": "Tonedome",
+    "url": "https://github.com/Tonedome/UncivCheatMeun",
+    "stars": 1,
+    "updated": "2023-08-07T17:50:58Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Helicopters-Can-Fly",
+    "description": "Helicopter gunships can now fly over water without embarking. They're not that kind of ship!",
+    "author": "AaronCSchmitz",
+    "url": "https://github.com/AaronCSchmitz/Helicopters-Can-Fly",
+    "stars": 1,
+    "updated": "2024-12-30T12:36:45Z",
+    "topics": [
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-fun"
+    ]
+  },
+  {
     "name": "Ethereal-borders",
     "description": "Borders mod, part of the Ultima V component set. Based on the Shadowlord realm battlefield screen. TO ENABLE: You may have to restart Unciv after downloading.",
     "author": "hackedpassword",
     "url": "https://github.com/hackedpassword/Ethereal-borders",
     "stars": 1,
     "updated": "2024-12-22T01:11:48Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-graphics"
-    ]
-  },
-  {
-    "name": "CUBEDs-Multiple-Tile-Sprites-Mod",
-    "description": "A mod that adds more variety of sprites for tiles",
-    "author": "LeMainMain",
-    "url": "https://github.com/LeMainMain/CUBEDs-Multiple-Tile-Sprites-Mod",
-    "stars": 1,
-    "updated": "2023-12-05T06:53:14Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-graphics"
@@ -4224,13 +4356,14 @@
     ]
   },
   {
-    "name": "PotatoHex",
-    "description": "I WIP tileset mod to hopefully improve performance for potato devices. Half the resolution of FantasyHex",
-    "author": "RealBamboolord",
-    "url": "https://github.com/RealBamboolord/PotatoHex",
+    "name": "CUBEDs-Multiple-Tile-Sprites-Mod",
+    "description": "A mod that adds more variety of sprites for tiles",
+    "author": "LeMainMain",
+    "url": "https://github.com/LeMainMain/CUBEDs-Multiple-Tile-Sprites-Mod",
     "stars": 1,
-    "updated": "2022-12-02T18:04:02Z",
+    "updated": "2023-12-05T06:53:14Z",
     "topics": [
+      "unciv-mod",
       "unciv-mod-graphics"
     ]
   },
@@ -4259,6 +4392,17 @@
     ]
   },
   {
+    "name": "PotatoHex",
+    "description": "I WIP tileset mod to hopefully improve performance for potato devices. Half the resolution of FantasyHex",
+    "author": "RealBamboolord",
+    "url": "https://github.com/RealBamboolord/PotatoHex",
+    "stars": 1,
+    "updated": "2022-12-02T18:04:02Z",
+    "topics": [
+      "unciv-mod-graphics"
+    ]
+  },
+  {
     "name": "Old-Babylon-Icon",
     "description": "Adds back Babylon's Lion icon, for those who like it more.",
     "author": "ReallyBasicName",
@@ -4283,18 +4427,6 @@
     ]
   },
   {
-    "name": "civilization-notifications",
-    "description": "Nation-themed notification sounds for Unciv.",
-    "author": "5cover",
-    "url": "https://github.com/5cover/civilization-notifications",
-    "stars": 1,
-    "updated": "2024-09-09T09:29:03Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-audio"
-    ]
-  },
-  {
     "name": "Civ-IV---Music",
     "description": "Civ IV Music for Unciv [Work-In-Progress]. Select \"Permanent audiovisual mod\".",
     "author": "RobLoach",
@@ -4307,15 +4439,28 @@
     ]
   },
   {
-    "name": "Civ-VII-Music-Pack",
-    "description": "This mod adds the Civ themes from Civ VII and puts them into UnCiv. Recommended to play with the 'Civ VII Nations' mod.",
-    "author": "Kurwizimi",
-    "url": "https://github.com/Kurwizimi/Civ-VII-Music-Pack",
+    "name": "EnD-Music-Pack",
+    "description": "An Emperors and Deities Music Pack filled with Copyrighted Music from classic strategy games",
+    "author": "chenxing61",
+    "url": "https://github.com/chenxing61/EnD-Music-Pack",
     "stars": 1,
-    "updated": "2025-05-20T12:44:22Z",
+    "updated": "2025-10-17T03:01:20Z",
     "topics": [
+      "unciv-mod",
       "unciv-mod-audio",
       "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "civilization-notifications",
+    "description": "Nation-themed notification sounds for Unciv.",
+    "author": "5cover",
+    "url": "https://github.com/5cover/civilization-notifications",
+    "stars": 1,
+    "updated": "2024-09-09T09:29:03Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-audio"
     ]
   },
   {
@@ -4327,6 +4472,18 @@
     "updated": "2024-01-25T08:09:30Z",
     "topics": [
       "unciv-mod",
+      "unciv-mod-audio",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Civ-VII-Music-Pack",
+    "description": "This mod adds the Civ themes from Civ VII and puts them into UnCiv. Recommended to play with the 'Civ VII Nations' mod.",
+    "author": "Kurwizimi",
+    "url": "https://github.com/Kurwizimi/Civ-VII-Music-Pack",
+    "stars": 1,
+    "updated": "2025-05-20T12:44:22Z",
+    "topics": [
       "unciv-mod-audio",
       "unciv-mod-modsofmods"
     ]
@@ -4369,12 +4526,60 @@
     ]
   },
   {
+    "name": "Yet-Another-Resource-Mod-Reborn",
+    "description": "this mod is back baby",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Yet-Another-Resource-Mod-Reborn",
+    "stars": 1,
+    "updated": "2025-08-04T01:16:40Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
     "name": "Longer-Work-Range",
     "description": "Extends City Work ranges to 5 tiles instead of 3",
     "author": "PhiRite",
     "url": "https://github.com/PhiRite/Longer-Work-Range",
     "stars": 1,
-    "updated": "2025-04-28T12:19:34Z",
+    "updated": "2025-10-27T03:50:40Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "city-distance-of-6",
+    "description": "A Unciv mod which increases the minimum city distance to 6",
+    "author": "helium-42",
+    "url": "https://github.com/helium-42/city-distance-of-6",
+    "stars": 1,
+    "updated": "2025-01-26T12:08:25Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "SimpleChat",
+    "description": "Description (optional)",
+    "author": "k-oa",
+    "url": "https://github.com/k-oa/SimpleChat",
+    "stars": 1,
+    "updated": "2025-05-12T18:28:41Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "_MoreTileYield",
+    "description": "50% more tile yield for every tile",
+    "author": "tvconsole2019",
+    "url": "https://github.com/tvconsole2019/_MoreTileYield",
+    "stars": 1,
+    "updated": "2025-03-16T13:55:39Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
@@ -4417,48 +4622,24 @@
     ]
   },
   {
-    "name": "_MoreTileYield",
-    "description": "50% more tile yield for every tile",
-    "author": "tvconsole2019",
-    "url": "https://github.com/tvconsole2019/_MoreTileYield",
-    "stars": 1,
-    "updated": "2025-03-16T13:55:39Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Yet-Another-Resource-Mod-Reborn",
-    "description": "this mod is back baby",
+    "name": "Javier-Milei-Mod",
+    "description": "viva la libertad carajo!",
     "author": "Gafaszt2",
-    "url": "https://github.com/Gafaszt2/Yet-Another-Resource-Mod-Reborn",
+    "url": "https://github.com/Gafaszt2/Javier-Milei-Mod",
     "stars": 1,
-    "updated": "2025-08-04T01:16:40Z",
+    "updated": "2023-12-28T13:04:25Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
     ]
   },
   {
-    "name": "city-distance-of-6",
-    "description": "A Unciv mod which increases the minimum city distance to 6",
-    "author": "helium-42",
-    "url": "https://github.com/helium-42/city-distance-of-6",
+    "name": "Difficult-Speed",
+    "description": "A mod that adds new difficulties and speeds, mostly made for my own personal use.",
+    "author": "ThunderWasTaken",
+    "url": "https://github.com/ThunderWasTaken/Difficult-Speed",
     "stars": 1,
-    "updated": "2025-01-26T12:08:25Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "SimpleChat",
-    "description": "Description (optional)",
-    "author": "k-oa",
-    "url": "https://github.com/k-oa/SimpleChat",
-    "stars": 1,
-    "updated": "2025-05-12T18:28:41Z",
+    "updated": "2025-09-01T07:45:32Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
@@ -4489,36 +4670,37 @@
     ]
   },
   {
-    "name": "Javier-Milei-Mod",
-    "description": "viva la libertad carajo!",
+    "name": "Rogue-Drones-of-Io",
+    "description": "\"The Barbarians\" but for Rivers of Lava. Drones will malfunction far more frequently and pose a greater threat to your mining operations. But perhaps this crisis can be turned into an opportunity...",
+    "author": "the-s-is-silent",
+    "url": "https://github.com/the-s-is-silent/Rogue-Drones-of-Io",
+    "stars": 1,
+    "updated": "2025-04-27T03:32:45Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Super-Golden-Age",
+    "description": "Makes Golden Ages to last a lot more, with fun purposes",
     "author": "Gafaszt2",
-    "url": "https://github.com/Gafaszt2/Javier-Milei-Mod",
+    "url": "https://github.com/Gafaszt2/Super-Golden-Age",
     "stars": 1,
-    "updated": "2023-12-28T13:04:25Z",
+    "updated": "2024-02-13T03:23:42Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
     ]
   },
   {
-    "name": "Difficult-Speed",
-    "description": "A mod that adds new difficulties and speeds, mostly made for my own personal use.",
-    "author": "ThunderWasTaken",
-    "url": "https://github.com/ThunderWasTaken/Difficult-Speed",
+    "name": "Yet-Another-Gafas-Mod",
+    "description": "Governments? Paleontology? New Mechanics? Hell Yeah",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Yet-Another-Gafas-Mod",
     "stars": 1,
-    "updated": "2025-09-01T07:45:32Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Too-Much-Ruins",
-    "description": "Changes the frequency of spawning ancient ruins to spawn one on every suitable tile. Works with all Rulesets",
-    "author": "RealBamboolord",
-    "url": "https://github.com/RealBamboolord/Too-Much-Ruins",
-    "stars": 1,
-    "updated": "2024-10-02T11:09:03Z",
+    "updated": "2025-01-20T14:01:34Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
@@ -4549,68 +4731,6 @@
     ]
   },
   {
-    "name": "Rogue-Drones-of-Io",
-    "description": "\"The Barbarians\" but for Rivers of Lava. Drones will malfunction far more frequently and pose a greater threat to your mining operations. But perhaps this crisis can be turned into an opportunity...",
-    "author": "the-s-is-silent",
-    "url": "https://github.com/the-s-is-silent/Rogue-Drones-of-Io",
-    "stars": 1,
-    "updated": "2025-04-27T03:32:45Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun",
-      "unciv-mod-modsofmods"
-    ]
-  },
-  {
-    "name": "Further-Cities-Distance-of-4",
-    "description": "A mod that forces cities to be placed one tile further apart than normal.",
-    "author": "the-s-is-silent",
-    "url": "https://github.com/the-s-is-silent/Further-Cities-Distance-of-4",
-    "stars": 1,
-    "updated": "2025-01-26T12:07:11Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Super-Golden-Age",
-    "description": "Makes Golden Ages to last a lot more, with fun purposes",
-    "author": "Gafaszt2",
-    "url": "https://github.com/Gafaszt2/Super-Golden-Age",
-    "stars": 1,
-    "updated": "2024-02-13T03:23:42Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Yet-Another-Gafas-Mod",
-    "description": "Governments? Paleontology? New Mechanics? Hell Yeah",
-    "author": "Gafaszt2",
-    "url": "https://github.com/Gafaszt2/Yet-Another-Gafas-Mod",
-    "stars": 1,
-    "updated": "2025-01-20T14:01:34Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "DeCiv-Unbalanced",
-    "description": "A deliberately OP mod for DeCiv Redux that will ruin your experience if you use it to cheat instead of to help test things inside a sandbox. Draws inspiration from some of Yairm210's more notable mistakes and is compatible with other DeCiv expansion mods.",
-    "author": "the-s-is-silent",
-    "url": "https://github.com/the-s-is-silent/DeCiv-Unbalanced",
-    "stars": 1,
-    "updated": "2025-07-15T13:15:21Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun",
-      "unciv-mod-modsofmods"
-    ]
-  },
-  {
     "name": "North-Korea",
     "description": "Adds the DPRK to Unciv.",
     "author": "Skekdog",
@@ -4635,16 +4755,15 @@
     ]
   },
   {
-    "name": "Chronicle_Files",
-    "description": "So this mod is how civs will be more on equal with uniques not being unique and so on. Like tile improvements, units, and many more.",
-    "author": "ColziandKing",
-    "url": "https://github.com/ColziandKing/Chronicle_Files",
+    "name": "Further-Cities-Distance-of-4",
+    "description": "A mod that forces cities to be placed one tile further apart than normal.",
+    "author": "the-s-is-silent",
+    "url": "https://github.com/the-s-is-silent/Further-Cities-Distance-of-4",
     "stars": 1,
-    "updated": "2023-06-09T07:14:44Z",
+    "updated": "2025-01-26T12:07:11Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-fun",
-      "unciv-mod-modsofmods"
+      "unciv-mod-fun"
     ]
   },
   {
@@ -4666,6 +4785,56 @@
     "url": "https://github.com/Moonshade917/Civilisation-de-ruines",
     "stars": 1,
     "updated": "2023-07-01T12:43:46Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Dhronicle_Files",
+    "description": "So this mod is how civs will be more on equal with uniques not being unique and so on. Like tile improvements, units, and many more.",
+    "author": "ColziandKing",
+    "url": "https://github.com/ColziandKing/Dhronicle_Files",
+    "stars": 1,
+    "updated": "2025-11-11T10:07:55Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "DeCiv-Unbalanced",
+    "description": "A deliberately OP mod for DeCiv Redux that will ruin your experience if you use it to cheat instead of to help test things inside a sandbox. Draws inspiration from some of Yairm210's more notable mistakes and is compatible with other DeCiv expansion mods.",
+    "author": "the-s-is-silent",
+    "url": "https://github.com/the-s-is-silent/DeCiv-Unbalanced",
+    "stars": 1,
+    "updated": "2025-07-15T13:15:21Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Unciv-Nigeria-mod",
+    "description": "this mod was made by .general_e enjoy :D",
+    "author": "Emandac",
+    "url": "https://github.com/Emandac/Unciv-Nigeria-mod",
+    "stars": 1,
+    "updated": "2025-10-26T18:07:15Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Too-Much-Ruins",
+    "description": "Changes the frequency of spawning ancient ruins to spawn one on every suitable tile. Works with all Rulesets",
+    "author": "RealBamboolord",
+    "url": "https://github.com/RealBamboolord/Too-Much-Ruins",
+    "stars": 1,
+    "updated": "2024-10-02T11:09:03Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
@@ -4708,35 +4877,183 @@
     ]
   },
   {
+    "name": "Enlightenment_DLC-Re---Eastern_European",
+    "description": "This is a DLC for Enlightenment. The DLC adds Poland and Ukraine.",
+    "author": "QbdqmQ",
+    "url": "https://github.com/QbdqmQ/Enlightenment_DLC-Re---Eastern_European",
+    "stars": 1,
+    "updated": "2024-05-04T12:31:08Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "CoeHarMod_ThreeKingdomsEra",
+    "description": "This is the expansion mod of \"The Coexistence in Harmony,\" adding the Three Kingdoms civilizations of Wei, Shu, and Wu during the Three Kingdoms period.",
+    "author": "AutumnPizazz",
+    "url": "https://github.com/AutumnPizazz/CoeHarMod_ThreeKingdomsEra",
+    "stars": 1,
+    "updated": "2023-09-23T04:29:24Z",
+    "topics": [
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-expansion",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "HOH-Modern-Countries",
+    "description": "Expansion for History of Humankind",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/HOH-Modern-Countries",
+    "stars": 1,
+    "updated": "2025-04-20T17:46:34Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "AF-hachchchs-Expansion",
+    "description": "work in progress, base ruleset mod https://github.com/carriontrooper/Alpha-Frontier by carriontrooper",
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/AF-hachchchs-Expansion",
+    "stars": 1,
+    "updated": "2025-07-03T11:38:35Z",
+    "topics": [
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "YACM-Expansion",
+    "description": "Reworks all Civ 5 Gods and Kings Nations",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/YACM-Expansion",
+    "stars": 1,
+    "updated": "2025-02-25T18:41:06Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "CoeHarMod_ScoutCat",
+    "description": null,
+    "author": "AutumnPizazz",
+    "url": "https://github.com/AutumnPizazz/CoeHarMod_ScoutCat",
+    "stars": 1,
+    "updated": "2025-05-29T11:42:22Z",
+    "topics": [
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Future-Expansion-Enhanced",
+    "description": "My custom version of Sullien's Future Expansion. Now based on and requires my reupload of the mod. See GitHub for extended documentation.",
+    "author": "denismattos",
+    "url": "https://github.com/denismattos/Future-Expansion-Enhanced",
+    "stars": 1,
+    "updated": "2025-07-19T04:34:37Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansion",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Ark-s-Unciv-Lost-Homes",
+    "description": "An Expansion for Ark s Unciv Evolved, this time i will make it work better, with more quality and such, explore the unofficial civilizations of ARK!",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Ark-s-Unciv-Lost-Homes",
+    "stars": 1,
+    "updated": "2025-10-25T00:22:24Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Bison-Granary",
+    "description": "Unciv mod to make Granary building affect Bison resource, requires Brave New World mod",
+    "author": "FiretronP75",
+    "url": "https://github.com/FiretronP75/Bison-Granary",
+    "stars": 1,
+    "updated": "2024-04-11T06:50:56Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Slightly-Less-Unfair-AI-in-DeCiv",
+    "description": "For anyone who hates how many new games in DeCiv are lost due to the AI boxing them in during the first 10 turns and seeks a minor reprieve from the abuse of forward settling.",
+    "author": "the-s-is-silent",
+    "url": "https://github.com/the-s-is-silent/Slightly-Less-Unfair-AI-in-DeCiv",
+    "stars": 1,
+    "updated": "2024-12-24T02:28:47Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "DeCiv-Redux-addOn",
+    "description": "DeCiv mod, general addon, buildings, wonders /wip",
+    "author": "TheresNoLama",
+    "url": "https://github.com/TheresNoLama/DeCiv-Redux-addOn",
+    "stars": 1,
+    "updated": "2024-08-16T18:55:15Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Civ-style-set-for-Brave-New-World",
+    "description": "This mod adds civ styles to Brave New World civs. Civ style set by Bucketeer and Brave New World is recommended when using this mod or somethings may not work.",
+    "author": "BennieCUBED",
+    "url": "https://github.com/BennieCUBED/Civ-style-set-for-Brave-New-World",
+    "stars": 1,
+    "updated": "2024-10-04T22:17:34Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Enlightenment_DLC-Re---Western_Asia",
+    "description": "This is a DLC for Enlightenment. The DLC adds Sumer, Akkad, Assyria, Hittite and Georgia.",
+    "author": "QbdqmQ",
+    "url": "https://github.com/QbdqmQ/Enlightenment_DLC-Re---Western_Asia",
+    "stars": 1,
+    "updated": "2024-05-04T12:34:32Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "More-WMDs-Future-Expansion-Compatibility",
+    "description": "Fixes More WMDs when playing with the Future Expansion mod.",
+    "author": "IsNss-DFFEF",
+    "url": "https://github.com/IsNss-DFFEF/More-WMDs-Future-Expansion-Compatibility",
+    "stars": 1,
+    "updated": "2025-06-21T11:51:03Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
     "name": "Danmachi",
     "description": null,
     "author": "SeargLevi",
     "url": "https://github.com/SeargLevi/Danmachi",
     "stars": 0,
     "updated": "2023-10-15T19:05:21Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-rulesets"
-    ]
-  },
-  {
-    "name": "UncivModd",
-    "description": null,
-    "author": "Aguzzz123",
-    "url": "https://github.com/Aguzzz123/UncivModd",
-    "stars": 0,
-    "updated": "2025-05-26T22:40:19Z",
-    "topics": [
-      "unciv-mod-rulesets"
-    ]
-  },
-  {
-    "name": "Unciv-Programming-mod",
-    "description": null,
-    "author": "5882886",
-    "url": "https://github.com/5882886/Unciv-Programming-mod",
-    "stars": 0,
-    "updated": "2025-09-25T07:14:01Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
@@ -4767,36 +5084,35 @@
     ]
   },
   {
+    "name": "Unciv-Programming-mod",
+    "description": null,
+    "author": "5882886",
+    "url": "https://github.com/5882886/Unciv-Programming-mod",
+    "stars": 0,
+    "updated": "2025-09-25T07:14:01Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-rulesets"
+    ]
+  },
+  {
+    "name": "UncivModd",
+    "description": null,
+    "author": "Aguzzz123",
+    "url": "https://github.com/Aguzzz123/UncivModd",
+    "stars": 0,
+    "updated": "2025-05-26T22:40:19Z",
+    "topics": [
+      "unciv-mod-rulesets"
+    ]
+  },
+  {
     "name": "CivCrush",
     "description": null,
     "author": "Aguzzz123",
     "url": "https://github.com/Aguzzz123/CivCrush",
     "stars": 0,
     "updated": "2025-05-30T21:59:49Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-rulesets"
-    ]
-  },
-  {
-    "name": "Gakuciv",
-    "description": "A mod for Unciv that builds on the Civ V G&D Ruleset",
-    "author": "GakuseiXIV",
-    "url": "https://github.com/GakuseiXIV/Gakuciv",
-    "stars": 0,
-    "updated": "2024-12-10T10:24:57Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-rulesets"
-    ]
-  },
-  {
-    "name": "Evolution",
-    "description": "Evolution Ruleset for Unciv",
-    "author": "Gafaszt2",
-    "url": "https://github.com/Gafaszt2/Evolution",
-    "stars": 0,
-    "updated": "2024-11-20T00:55:07Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
@@ -4815,12 +5131,12 @@
     ]
   },
   {
-    "name": "Arcanum-of-Magic",
-    "description": "The world is reminiscent of  bolt-action magic wands and Grimoire of Relativity!! In Progress",
-    "author": "hachchch",
-    "url": "https://github.com/hachchch/Arcanum-of-Magic",
+    "name": "Gakuciv",
+    "description": "A mod for Unciv that builds on the Civ V G&D Ruleset",
+    "author": "GakuseiXIV",
+    "url": "https://github.com/GakuseiXIV/Gakuciv",
     "stars": 0,
-    "updated": "2024-07-19T23:12:06Z",
+    "updated": "2024-12-10T10:24:57Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-rulesets"
@@ -4838,26 +5154,26 @@
     ]
   },
   {
-    "name": "Remove-The-Future-Era",
-    "description": "Removing Future era...",
-    "author": "HansIsNerd",
-    "url": "https://github.com/HansIsNerd/Remove-The-Future-Era",
+    "name": "Evolution",
+    "description": "Evolution Ruleset for Unciv",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Evolution",
     "stars": 0,
-    "updated": "2023-10-17T22:27:19Z",
+    "updated": "2024-11-20T00:55:07Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-modsofmods",
       "unciv-mod-rulesets"
     ]
   },
   {
-    "name": "rebalansMOD",
-    "description": "этот мод ребалансирует юнитов в режиме \"Боги и Короли\"",
-    "author": "Jaba583",
-    "url": "https://github.com/Jaba583/rebalansMOD",
+    "name": "Arcanum-of-Magic",
+    "description": "The world is reminiscent of  bolt-action magic wands and Grimoire of Relativity!! In Progress",
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/Arcanum-of-Magic",
     "stars": 0,
-    "updated": "2025-06-20T15:01:13Z",
+    "updated": "2024-07-19T23:12:06Z",
     "topics": [
+      "unciv-mod",
       "unciv-mod-rulesets"
     ]
   },
@@ -4898,6 +5214,17 @@
     ]
   },
   {
+    "name": "rebalansMOD",
+    "description": "этот мод ребалансирует юнитов в режиме \"Боги и Короли\"",
+    "author": "Jaba583",
+    "url": "https://github.com/Jaba583/rebalansMOD",
+    "stars": 0,
+    "updated": "2025-06-20T15:01:13Z",
+    "topics": [
+      "unciv-mod-rulesets"
+    ]
+  },
+  {
     "name": "Unciv-Empires",
     "description": "A total overhaul for Unciv game mechanics",
     "author": "MasterOktagon",
@@ -4922,51 +5249,41 @@
     ]
   },
   {
-    "name": "VividVale-Decivilised",
-    "description": "VividVale in Deciv Redux",
-    "author": "BennieCUBED",
-    "url": "https://github.com/BennieCUBED/VividVale-Decivilised",
+    "name": "Remove-The-Future-Era",
+    "description": "Removing Future era...",
+    "author": "HansIsNerd",
+    "url": "https://github.com/HansIsNerd/Remove-The-Future-Era",
     "stars": 0,
-    "updated": "2025-01-06T11:49:05Z",
+    "updated": "2023-10-17T22:27:19Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods",
+      "unciv-mod-rulesets"
+    ]
+  },
+  {
+    "name": "Reimu-Hakurei-Touhou-Mod",
+    "description": "A Touhou Project mod for the lazy miko, Reimu Hakurei. May you lead her out of poverty (she haven't eaten for three days)",
+    "author": "Wheelchair2",
+    "url": "https://github.com/Wheelchair2/Reimu-Hakurei-Touhou-Mod",
+    "stars": 0,
+    "updated": "2023-05-11T13:05:40Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
     ]
   },
   {
-    "name": "Cold-War-Nations",
-    "description": "Cold-War-Nations, A mod which adds nations that existed during the Cold War.",
-    "author": "BennieCUBED",
-    "url": "https://github.com/BennieCUBED/Cold-War-Nations",
+    "name": "wesnoth-tileset",
+    "description": "AlatarTheYoung testing space",
+    "author": "AlatarTheYoung",
+    "url": "https://github.com/AlatarTheYoung/wesnoth-tileset",
     "stars": 0,
-    "updated": "2024-08-08T04:58:25Z",
+    "updated": "2024-05-13T20:30:03Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Expedition-and-Garrison-Working-mod",
-    "description": null,
-    "author": "shoso-306",
-    "url": "https://github.com/shoso-306/Expedition-and-Garrison-Working-mod",
-    "stars": 0,
-    "updated": "2024-02-04T16:23:31Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "City-Focuses",
-    "description": "Allows you to set up a combination of bonuses for each of your cities.",
-    "author": "Calais-Osterrepublic",
-    "url": "https://github.com/Calais-Osterrepublic/City-Focuses",
-    "stars": 0,
-    "updated": "2023-07-26T18:41:37Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
+      "unciv-mod-expansions",
+      "unciv-mod-graphics"
     ]
   },
   {
@@ -5004,6 +5321,55 @@
       "unciv-mod",
       "unciv-mod-expansions",
       "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Expedition-and-Garrison-Working-mod",
+    "description": null,
+    "author": "shoso-306",
+    "url": "https://github.com/shoso-306/Expedition-and-Garrison-Working-mod",
+    "stars": 0,
+    "updated": "2024-02-04T16:23:31Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "City-Focuses",
+    "description": "Allows you to set up a combination of bonuses for each of your cities.",
+    "author": "Calais-Osterrepublic",
+    "url": "https://github.com/Calais-Osterrepublic/City-Focuses",
+    "stars": 0,
+    "updated": "2023-07-26T18:41:37Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "VividVale-Decivilised",
+    "description": "VividVale in Deciv Redux",
+    "author": "BennieCUBED",
+    "url": "https://github.com/BennieCUBED/VividVale-Decivilised",
+    "stars": 0,
+    "updated": "2025-01-06T11:49:05Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Touhou-Kawasiro-Nitori",
+    "description": null,
+    "author": "yyddkkss",
+    "url": "https://github.com/yyddkkss/Touhou-Kawasiro-Nitori",
+    "stars": 0,
+    "updated": "2025-11-01T13:18:34Z",
+    "topics": [
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-expansions"
     ]
   },
   {
@@ -5084,82 +5450,6 @@
     ]
   },
   {
-    "name": "Horsemanship-Mod",
-    "description": "Introduces Horsia, Cattleman and more. Currently in beta",
-    "author": "NalmTheNam",
-    "url": "https://github.com/NalmTheNam/Horsemanship-Mod",
-    "stars": 0,
-    "updated": "2023-06-20T03:55:25Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Beach-mod",
-    "description": "This mod adds beaches. That's all.",
-    "author": "hachchch",
-    "url": "https://github.com/hachchch/Beach-mod",
-    "stars": 0,
-    "updated": "2024-07-19T23:12:06Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Internet-Fandoms-and-Other-Joke-Civs",
-    "description": "The worst mod for Unciv ever made (and my first).  Has way too much effort put into it. Requires FantasyHex.",
-    "author": "reverent21",
-    "url": "https://github.com/reverent21/Internet-Fandoms-and-Other-Joke-Civs",
-    "stars": 0,
-    "updated": "2025-03-05T18:37:32Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "UltimaV-base",
-    "description": "Gameplay mod component for the Ultima V series. Currently in dev, watch this repo for updates. See also Ultima V tileset mod, unitset mod, Ethereal borders mod, and Britannia map via Nextgen-Maps mod. ",
-    "author": "hackedpassword",
-    "url": "https://github.com/hackedpassword/UltimaV-base",
-    "stars": 0,
-    "updated": "2025-09-07T15:19:17Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-wip"
-    ]
-  },
-  {
-    "name": "Reimu-Hakurei-Touhou-Mod",
-    "description": "A Touhou Project mod for the lazy miko, Reimu Hakurei. May you lead her out of poverty (she haven't eaten for three days)",
-    "author": "Wheelchair2",
-    "url": "https://github.com/Wheelchair2/Reimu-Hakurei-Touhou-Mod",
-    "stars": 0,
-    "updated": "2023-05-11T13:05:40Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "wesnoth-tileset",
-    "description": "AlatarTheYoung testing space",
-    "author": "AlatarTheYoung",
-    "url": "https://github.com/AlatarTheYoung/wesnoth-tileset",
-    "stars": 0,
-    "updated": "2024-05-13T20:30:03Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-graphics"
-    ]
-  },
-  {
     "name": "Mochent",
     "description": null,
     "author": "tenumn",
@@ -5198,40 +5488,53 @@
     ]
   },
   {
-    "name": "Test",
-    "description": null,
-    "author": "DrEnder1893",
-    "url": "https://github.com/DrEnder1893/Test",
+    "name": "Cold-War-Nations",
+    "description": "Cold-War-Nations, A mod which adds nations that existed during the Cold War.",
+    "author": "BennieCUBED",
+    "url": "https://github.com/BennieCUBED/Cold-War-Nations",
     "stars": 0,
-    "updated": "2024-12-21T09:46:46Z",
-    "topics": [
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "FFA-SO-SBOIMI-NATIYAMI",
-    "description": "This is unciv mod add Kazakh Khagan ",
-    "author": "Lasty120",
-    "url": "https://github.com/Lasty120/FFA-SO-SBOIMI-NATIYAMI",
-    "stars": 0,
-    "updated": "2024-08-08T04:58:22Z",
+    "updated": "2024-08-08T04:58:25Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
     ]
   },
   {
-    "name": "LM2-Watermelon-Expansion",
-    "description": null,
-    "author": "icefloe-cloud",
-    "url": "https://github.com/icefloe-cloud/LM2-Watermelon-Expansion",
+    "name": "Horsemanship-Mod",
+    "description": "Introduces Horsia, Cattleman and more. Currently in beta",
+    "author": "NalmTheNam",
+    "url": "https://github.com/NalmTheNam/Horsemanship-Mod",
     "stars": 0,
-    "updated": "2025-06-20T06:14:58Z",
+    "updated": "2023-06-20T03:55:25Z",
     "topics": [
-      "unciv",
       "unciv-mod",
       "unciv-mod-expansions",
-      "unciv-mod-modsofmods"
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Beach-mod",
+    "description": "This mod adds beaches. That's all.",
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/Beach-mod",
+    "stars": 0,
+    "updated": "2024-07-19T23:12:06Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Internet-Fandoms-and-Other-Joke-Civs",
+    "description": "The worst mod for Unciv ever made (and my first).  Has way too much effort put into it. Requires FantasyHex.",
+    "author": "reverent21",
+    "url": "https://github.com/reverent21/Internet-Fandoms-and-Other-Joke-Civs",
+    "stars": 0,
+    "updated": "2025-11-10T00:50:28Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-fun"
     ]
   },
   {
@@ -5284,26 +5587,53 @@
     ]
   },
   {
-    "name": "Burikinia_Civilization",
-    "description": null,
-    "author": "SchwiftyDude",
-    "url": "https://github.com/SchwiftyDude/Burikinia_Civilization",
+    "name": "UltimaV-base",
+    "description": "Gameplay mod component for the Ultima V series. Currently in dev, watch this repo for updates. See also Ultima V tileset mod, unitset mod, Ethereal borders mod, and Britannia map via Nextgen-Maps mod. ",
+    "author": "hackedpassword",
+    "url": "https://github.com/hackedpassword/UltimaV-base",
     "stars": 0,
-    "updated": "2023-11-18T08:02:00Z",
+    "updated": "2025-09-07T15:19:17Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-wip"
+    ]
+  },
+  {
+    "name": "Test",
+    "description": null,
+    "author": "DrEnder1893",
+    "url": "https://github.com/DrEnder1893/Test",
+    "stars": 0,
+    "updated": "2024-12-21T09:46:46Z",
+    "topics": [
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "FFA-SO-SBOIMI-NATIYAMI",
+    "description": "This is unciv mod add Kazakh Khagan ",
+    "author": "Lasty120",
+    "url": "https://github.com/Lasty120/FFA-SO-SBOIMI-NATIYAMI",
+    "stars": 0,
+    "updated": "2024-08-08T04:58:22Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
     ]
   },
   {
-    "name": "Rework-The-kingdom-of-Greece-in-Balkan-Wars-Mod",
-    "description": "Reworking it Because... Why not?",
-    "author": "laraclamara837",
-    "url": "https://github.com/laraclamara837/Rework-The-kingdom-of-Greece-in-Balkan-Wars-Mod",
+    "name": "LM2-Watermelon-Expansion",
+    "description": null,
+    "author": "icefloe-cloud",
+    "url": "https://github.com/icefloe-cloud/LM2-Watermelon-Expansion",
     "stars": 0,
-    "updated": "2024-11-10T10:34:02Z",
+    "updated": "2025-06-20T06:14:58Z",
     "topics": [
-      "unciv-mod-expansions"
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-modsofmods"
     ]
   },
   {
@@ -5382,42 +5712,6 @@
     ]
   },
   {
-    "name": "Ice-Breakers",
-    "description": "This mod adds ice breaking ships to the later eras. Icon edit needed.",
-    "author": "Mr-Chubz",
-    "url": "https://github.com/Mr-Chubz/Ice-Breakers",
-    "stars": 0,
-    "updated": "2024-08-08T04:58:23Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "supply-ship",
-    "description": "覺得後期全是導彈巡洋艦很煩嗎?想要回到驅逐艦的時代嗎?試試這個!補給艦模組!",
-    "author": "prohdichdi",
-    "url": "https://github.com/prohdichdi/supply-ship",
-    "stars": 0,
-    "updated": "2024-07-19T23:12:07Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "cultural-policies-mod",
-    "description": "Mod for Unciv. Adds culture-related policy branches.",
-    "author": "sls1005",
-    "url": "https://github.com/sls1005/cultural-policies-mod",
-    "stars": 0,
-    "updated": "2024-07-30T04:56:11Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
     "name": "Belief-Nations",
     "description": "Turns a bunch of belief ideas into Nations",
     "author": "PhiRite",
@@ -5463,43 +5757,6 @@
     "url": "https://github.com/SiapaXDKamu/Polyland-Fictional-Countries",
     "stars": 0,
     "updated": "2025-07-27T06:01:04Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Samurai-Expension",
-    "description": "This mod changes Medival Japan without Europian Arm and Citie Textures.",
-    "author": "hachchch",
-    "url": "https://github.com/hachchch/Samurai-Expension",
-    "stars": 0,
-    "updated": "2023-07-25T12:08:35Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-graphics"
-    ]
-  },
-  {
-    "name": "SubTechs-mod",
-    "description": "Add small Evolution Branch to the game. add 17 Features.",
-    "author": "hachchch",
-    "url": "https://github.com/hachchch/SubTechs-mod",
-    "stars": 0,
-    "updated": "2023-12-11T11:04:06Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "DeCheat",
-    "description": "UnCheat with the support for DeCiv Redux's technologies and promotions!",
-    "author": "ZacTheCatlover",
-    "url": "https://github.com/ZacTheCatlover/DeCheat",
-    "stars": 0,
-    "updated": "2025-08-04T11:22:07Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
@@ -5591,51 +5848,62 @@
     ]
   },
   {
-    "name": "Unfictionalisation-Mod",
-    "description": "Just making a test mod for Unciv, please do not download this",
-    "author": "AiwassCrowley",
-    "url": "https://github.com/AiwassCrowley/Unfictionalisation-Mod",
+    "name": "Samurai-Expension",
+    "description": "This mod changes Medival Japan without Europian Arm and Citie Textures.",
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/Samurai-Expension",
     "stars": 0,
-    "updated": "2023-06-06T08:47:29Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Military-Desperate-Actions",
-    "description": null,
-    "author": "Calais-Osterrepublic",
-    "url": "https://github.com/Calais-Osterrepublic/Military-Desperate-Actions",
-    "stars": 0,
-    "updated": "2023-07-27T23:39:30Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Warfare-Expanded-Compatibility-Version",
-    "description": "Based on the Warfare Expanded mod. This version is made to improve compatibility with other mods.",
-    "author": "NoviceCoder2000",
-    "url": "https://github.com/NoviceCoder2000/Warfare-Expanded-Compatibility-Version",
-    "stars": 0,
-    "updated": "2025-01-10T15:27:18Z",
+    "updated": "2023-07-25T12:08:35Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions",
-      "unciv-mod-modsofmods"
+      "unciv-mod-graphics"
     ]
   },
   {
-    "name": "Civ-V-Modded-Leaders-Pack",
-    "description": "Adds Canada, Georgia, Israel, Khmer, Mali, Manchu, People's Republic of China, Sumer, The Cree, The Franks, The Goths, The Olmecs, The Soviet Union, Vietnam, Xia and Yuan as ported versions of Civ5 mods.",
-    "author": "HungLTL",
-    "url": "https://github.com/HungLTL/Civ-V-Modded-Leaders-Pack",
+    "name": "SubTechs-mod",
+    "description": "Add small Evolution Branch to the game. add 17 Features.",
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/SubTechs-mod",
     "stars": 0,
-    "updated": "2025-09-11T14:04:21Z",
+    "updated": "2023-12-11T11:04:06Z",
     "topics": [
       "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "DeCheat",
+    "description": "UnCheat with the support for DeCiv Redux's technologies and promotions!",
+    "author": "ZacTheCatlover",
+    "url": "https://github.com/ZacTheCatlover/DeCheat",
+    "stars": 0,
+    "updated": "2025-08-04T11:22:07Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Burikinia_Civilization",
+    "description": null,
+    "author": "SchwiftyDude",
+    "url": "https://github.com/SchwiftyDude/Burikinia_Civilization",
+    "stars": 0,
+    "updated": "2023-11-18T08:02:00Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Rework-The-kingdom-of-Greece-in-Balkan-Wars-Mod",
+    "description": "Reworking it Because... Why not?",
+    "author": "laraclamara837",
+    "url": "https://github.com/laraclamara837/Rework-The-kingdom-of-Greece-in-Balkan-Wars-Mod",
+    "stars": 0,
+    "updated": "2024-11-10T10:34:02Z",
+    "topics": [
       "unciv-mod-expansions"
     ]
   },
@@ -5650,161 +5918,6 @@
       "unciv-mod",
       "unciv-mod-expansions",
       "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Prestage",
-    "description": "You can prestige all cities if building all buildable national Wonders. When prestige is builded, all buildings in all cities will removed, but in return, the effects of all buildings will be strengthened. Example (Ironworks Production becomes +8 to +9) And since this effect stacks, be sure to build prestige.",
-    "author": "hachchch",
-    "url": "https://github.com/hachchch/Prestage",
-    "stars": 0,
-    "updated": "2023-12-05T08:39:57Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Monster-Girl-Nations",
-    "description": "Just Monster Girls Fr",
-    "author": "DevilReaperSans",
-    "url": "https://github.com/DevilReaperSans/Monster-Girl-Nations",
-    "stars": 0,
-    "updated": "2025-01-06T22:51:50Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Realms-of-Honor",
-    "description": "Adds 4 new Civilizations",
-    "author": "RajaNemo",
-    "url": "https://github.com/RajaNemo/Realms-of-Honor",
-    "stars": 0,
-    "updated": "2023-06-26T01:09:40Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "phil",
-    "description": "great philippines",
-    "author": "jajaaaaaa4",
-    "url": "https://github.com/jajaaaaaa4/phil",
-    "stars": 0,
-    "updated": "2024-06-12T10:25:34Z",
-    "topics": [
-      "unciv-mod-expansions",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Ranmod",
-    "description": "my first unciv mod, adds 3 new civilizations",
-    "author": "J95125",
-    "url": "https://github.com/J95125/Ranmod",
-    "stars": 0,
-    "updated": "2023-07-16T23:26:20Z",
-    "topics": [
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Resource-plus_Unciv-mod",
-    "description": null,
-    "author": "meliris",
-    "url": "https://github.com/meliris/Resource-plus_Unciv-mod",
-    "stars": 0,
-    "updated": "2025-01-27T09:13:32Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Pilaris",
-    "description": null,
-    "author": "Pablo-2401",
-    "url": "https://github.com/Pablo-2401/Pilaris",
-    "stars": 0,
-    "updated": "2024-04-22T15:18:56Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "megacity1026",
-    "description": "Experience the joy of a super city",
-    "author": "MU1026-2",
-    "url": "https://github.com/MU1026-2/megacity1026",
-    "stars": 0,
-    "updated": "2025-07-27T08:46:33Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Republic-of-Texas-",
-    "description": "Republic of texas nation",
-    "author": "BrierleyBlood",
-    "url": "https://github.com/BrierleyBlood/Republic-of-Texas-",
-    "stars": 0,
-    "updated": "2025-05-03T23:29:21Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "B2.1-Project",
-    "description": "First edition of modifications to the B2 Project. This mod has subsequently been terminated and updates will not continue. [DEFUNCT]",
-    "author": "RapidPup4466401",
-    "url": "https://github.com/RapidPup4466401/B2.1-Project",
-    "stars": 0,
-    "updated": "2024-12-22T18:07:24Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Fruusthene-Civilization",
-    "description": "This is a mod for the game Unciv. This adds 1 civilization called 'Fruusthene'.",
-    "author": "Bluexpress2Studios",
-    "url": "https://github.com/Bluexpress2Studios/Fruusthene-Civilization",
-    "stars": 0,
-    "updated": "2023-10-29T22:26:31Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-expansions"
-    ]
-  },
-  {
-    "name": "Undead",
-    "description": "Undead — a tool to check if proxies are ALIVE or DEAD.",
-    "author": "mominkhan01",
-    "url": "https://github.com/mominkhan01/Undead",
-    "stars": 0,
-    "updated": "2025-10-10T17:30:48Z",
-    "topics": [
-      "canvas",
-      "cdda",
-      "console-game",
-      "educational",
-      "game",
-      "javascript",
-      "pentesting",
-      "phishing",
-      "redm",
-      "unciv",
-      "unciv-mod",
-      "unciv-mod-expansions",
-      "warcraft-iii",
-      "zombie"
     ]
   },
   {
@@ -5930,16 +6043,62 @@
     ]
   },
   {
-    "name": "Seargels-Civ",
-    "description": null,
-    "author": "SeargLevi",
-    "url": "https://github.com/SeargLevi/Seargels-Civ",
+    "name": "Ranmod",
+    "description": "my first unciv mod, adds 3 new civilizations",
+    "author": "J95125",
+    "url": "https://github.com/J95125/Ranmod",
     "stars": 0,
-    "updated": "2025-04-29T09:46:54Z",
+    "updated": "2023-07-16T23:26:20Z",
+    "topics": [
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Resource-plus_Unciv-mod",
+    "description": null,
+    "author": "meliris",
+    "url": "https://github.com/meliris/Resource-plus_Unciv-mod",
+    "stars": 0,
+    "updated": "2025-01-27T09:13:32Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-expansions",
-      "unciv-mod-fun"
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Pilaris",
+    "description": null,
+    "author": "Pablo-2401",
+    "url": "https://github.com/Pablo-2401/Pilaris",
+    "stars": 0,
+    "updated": "2024-04-22T15:18:56Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "megacity1026",
+    "description": "Experience the joy of a super city",
+    "author": "MU1026-2",
+    "url": "https://github.com/MU1026-2/megacity1026",
+    "stars": 0,
+    "updated": "2025-07-27T08:46:33Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Republic-of-Texas-",
+    "description": "Republic of texas nation",
+    "author": "BrierleyBlood",
+    "url": "https://github.com/BrierleyBlood/Republic-of-Texas-",
+    "stars": 0,
+    "updated": "2025-05-03T23:29:21Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
     ]
   },
   {
@@ -5987,6 +6146,19 @@
     "topics": [
       "unciv-mod",
       "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Seargels-Civ",
+    "description": null,
+    "author": "SeargLevi",
+    "url": "https://github.com/SeargLevi/Seargels-Civ",
+    "stars": 0,
+    "updated": "2025-11-07T12:11:59Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-fun"
     ]
   },
   {
@@ -6089,6 +6261,163 @@
     ]
   },
   {
+    "name": "B2.1-Project",
+    "description": "First edition of modifications to the B2 Project. This mod has subsequently been terminated and updates will not continue. [DEFUNCT]",
+    "author": "RapidPup4466401",
+    "url": "https://github.com/RapidPup4466401/B2.1-Project",
+    "stars": 0,
+    "updated": "2024-12-22T18:07:24Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Fruusthene-Civilization",
+    "description": "This is a mod for the game Unciv. This adds 1 civilization called 'Fruusthene'.",
+    "author": "Bluexpress2Studios",
+    "url": "https://github.com/Bluexpress2Studios/Fruusthene-Civilization",
+    "stars": 0,
+    "updated": "2023-10-29T22:26:31Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Undead",
+    "description": "Undead — a tool to check if proxies are ALIVE or DEAD.",
+    "author": "mominkhan01",
+    "url": "https://github.com/mominkhan01/Undead",
+    "stars": 0,
+    "updated": "2025-11-17T16:11:04Z",
+    "topics": [
+      "canvas",
+      "cdda",
+      "console-game",
+      "educational",
+      "game",
+      "javascript",
+      "pentesting",
+      "phishing",
+      "redm",
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "warcraft-iii",
+      "zombie"
+    ]
+  },
+  {
+    "name": "Realms-of-Honor",
+    "description": "Adds 4 new Civilizations",
+    "author": "RajaNemo",
+    "url": "https://github.com/RajaNemo/Realms-of-Honor",
+    "stars": 0,
+    "updated": "2023-06-26T01:09:40Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "phil",
+    "description": "great philippines",
+    "author": "jajaaaaaa4",
+    "url": "https://github.com/jajaaaaaa4/phil",
+    "stars": 0,
+    "updated": "2024-06-12T10:25:34Z",
+    "topics": [
+      "unciv-mod-expansions",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Unfictionalisation-Mod",
+    "description": "Just making a test mod for Unciv, please do not download this",
+    "author": "AiwassCrowley",
+    "url": "https://github.com/AiwassCrowley/Unfictionalisation-Mod",
+    "stars": 0,
+    "updated": "2023-06-06T08:47:29Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Military-Desperate-Actions",
+    "description": null,
+    "author": "Calais-Osterrepublic",
+    "url": "https://github.com/Calais-Osterrepublic/Military-Desperate-Actions",
+    "stars": 0,
+    "updated": "2023-07-27T23:39:30Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Civ-V-Modded-Leaders-Pack",
+    "description": "Adds Canada, Georgia, Israel, Khmer, Mali, Manchu, People's Republic of China, Sumer, The Cree, The Franks, The Goths, The Olmecs, The Soviet Union, Vietnam, Xia and Yuan as ported versions of Civ5 mods.",
+    "author": "HungLTL",
+    "url": "https://github.com/HungLTL/Civ-V-Modded-Leaders-Pack",
+    "stars": 0,
+    "updated": "2025-10-30T14:32:46Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Warfare-Expanded-Compatibility-Version",
+    "description": "Based on the Warfare Expanded mod. This version is made to improve compatibility with other mods.",
+    "author": "NoviceCoder2000",
+    "url": "https://github.com/NoviceCoder2000/Warfare-Expanded-Compatibility-Version",
+    "stars": 0,
+    "updated": "2025-01-10T15:27:18Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Ice-Breakers",
+    "description": "This mod adds ice breaking ships to the later eras. Icon edit needed.",
+    "author": "Mr-Chubz",
+    "url": "https://github.com/Mr-Chubz/Ice-Breakers",
+    "stars": 0,
+    "updated": "2024-08-08T04:58:23Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "supply-ship",
+    "description": "覺得後期全是導彈巡洋艦很煩嗎?想要回到驅逐艦的時代嗎?試試這個!補給艦模組!",
+    "author": "prohdichdi",
+    "url": "https://github.com/prohdichdi/supply-ship",
+    "stars": 0,
+    "updated": "2024-07-19T23:12:07Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "cultural-policies-mod",
+    "description": "Mod for Unciv. Adds culture-related policy branches.",
+    "author": "sls1005",
+    "url": "https://github.com/sls1005/cultural-policies-mod",
+    "stars": 0,
+    "updated": "2024-07-30T04:56:11Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
+    ]
+  },
+  {
     "name": "Ornith",
     "description": "A consciencelessly strong civ & 6 UU",
     "author": "saud2410",
@@ -6151,15 +6480,27 @@
     ]
   },
   {
-    "name": "Gafas-Emoji-Pack",
-    "description": "adds the emojis from History of Humankind to any ruleset",
-    "author": "Gafaszt2",
-    "url": "https://github.com/Gafaszt2/Gafas-Emoji-Pack",
+    "name": "Prestage",
+    "description": "You can prestige all cities if building all buildable national Wonders. When prestige is builded, all buildings in all cities will removed, but in return, the effects of all buildings will be strengthened. Example (Ironworks Production becomes +8 to +9) And since this effect stacks, be sure to build prestige.",
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/Prestage",
     "stars": 0,
-    "updated": "2025-05-11T03:04:55Z",
+    "updated": "2023-12-05T08:39:57Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-graphics"
+      "unciv-mod-expansions"
+    ]
+  },
+  {
+    "name": "Monster-Girl-Nations",
+    "description": "Just Monster Girls Fr",
+    "author": "DevilReaperSans",
+    "url": "https://github.com/DevilReaperSans/Monster-Girl-Nations",
+    "stars": 0,
+    "updated": "2025-01-06T22:51:50Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-expansions"
     ]
   },
   {
@@ -6169,6 +6510,18 @@
     "url": "https://github.com/Malwen/UnSkin-UI",
     "stars": 0,
     "updated": "2025-03-24T17:45:50Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-graphics"
+    ]
+  },
+  {
+    "name": "Gafas-Emoji-Pack",
+    "description": "adds the emojis from History of Humankind to any ruleset",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Gafas-Emoji-Pack",
+    "stars": 0,
+    "updated": "2025-05-11T03:04:55Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-graphics"
@@ -6225,15 +6578,16 @@
     ]
   },
   {
-    "name": "UltimaV-retroset",
-    "description": "Tileset graphics mod for Ultima V series. Old school gaming!",
-    "author": "hackedpassword",
-    "url": "https://github.com/hackedpassword/UltimaV-retroset",
+    "name": "Ark-Stardew-Leaders",
+    "description": "adds stardew valley character (oc´s) as an optional expansion, free for all to use and share",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Ark-Stardew-Leaders",
     "stars": 0,
-    "updated": "2025-09-16T21:45:16Z",
+    "updated": "2025-05-21T17:44:44Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-graphics"
+      "unciv-mod-graphics",
+      "unciv-mod-modsofmods"
     ]
   },
   {
@@ -6249,25 +6603,12 @@
     ]
   },
   {
-    "name": "Ark-Stardew-Leaders",
-    "description": "adds stardew valley character (oc´s) as an optional expansion, free for all to use and share",
-    "author": "Gafaszt2",
-    "url": "https://github.com/Gafaszt2/Ark-Stardew-Leaders",
+    "name": "UltimaV-retroset",
+    "description": "Tileset graphics mod for Ultima V series. Old school gaming!",
+    "author": "hackedpassword",
+    "url": "https://github.com/hackedpassword/UltimaV-retroset",
     "stars": 0,
-    "updated": "2025-05-21T17:44:44Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-graphics",
-      "unciv-mod-modsofmods"
-    ]
-  },
-  {
-    "name": "RekMOD-Icons",
-    "description": "RekMOD graphics, icons, and art for Unciv.",
-    "author": "RobLoach",
-    "url": "https://github.com/RobLoach/RekMOD-Icons",
-    "stars": 0,
-    "updated": "2025-06-05T06:53:09Z",
+    "updated": "2025-11-09T19:30:58Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-graphics"
@@ -6286,19 +6627,6 @@
     ]
   },
   {
-    "name": "4X-Audio",
-    "description": "Music tracks for Unciv",
-    "author": "metablaster",
-    "url": "https://github.com/metablaster/4X-Audio",
-    "stars": 0,
-    "updated": "2024-12-18T08:54:31Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-audio",
-      "unciv-mod-modsofmods"
-    ]
-  },
-  {
     "name": "Communist-Regimes-Music",
     "description": "Spice up USSR and upcoming Soviet civilizations with these tunes! i dont own any of them!",
     "author": "Gafaszt2",
@@ -6310,15 +6638,16 @@
     ]
   },
   {
-    "name": "Civ-V-Modded-Leaders-Pack-Music",
-    "description": "Companion music mod for Civ V Modded Leaders Pack for Unciv.",
-    "author": "HungLTL",
-    "url": "https://github.com/HungLTL/Civ-V-Modded-Leaders-Pack-Music",
+    "name": "4X-Audio",
+    "description": "Music tracks for Unciv",
+    "author": "metablaster",
+    "url": "https://github.com/metablaster/4X-Audio",
     "stars": 0,
-    "updated": "2025-08-04T09:54:56Z",
+    "updated": "2024-12-18T08:54:31Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-audio"
+      "unciv-mod-audio",
+      "unciv-mod-modsofmods"
     ]
   },
   {
@@ -6382,6 +6711,18 @@
     ]
   },
   {
+    "name": "Civ-V-Modded-Leaders-Pack-Music",
+    "description": "Companion music mod for Civ V Modded Leaders Pack for Unciv.",
+    "author": "HungLTL",
+    "url": "https://github.com/HungLTL/Civ-V-Modded-Leaders-Pack-Music",
+    "stars": 0,
+    "updated": "2025-08-04T09:54:56Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-audio"
+    ]
+  },
+  {
     "name": "WW1-Nations-Music",
     "description": "Adds extra music and themes for WW1 Nations.",
     "author": "BennieCUBED",
@@ -6394,24 +6735,24 @@
     ]
   },
   {
-    "name": "Project-Test-Map",
-    "description": "This is for me to make an Unciv map to test my mods in.",
-    "author": "Angelonius",
-    "url": "https://github.com/Angelonius/Project-Test-Map",
-    "stars": 0,
-    "updated": "2023-03-15T06:43:58Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-maps"
-    ]
-  },
-  {
     "name": "Nextgen-Maps",
     "description": "Most fun and well-designed maps! Current maps include: Britannia Overworld, Zelda 2 Hyrule, Barren Ice, Hexworld, Whirlpool, Tranquility",
     "author": "hackedpassword",
     "url": "https://github.com/hackedpassword/Nextgen-Maps",
     "stars": 0,
     "updated": "2025-06-07T06:57:18Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-maps"
+    ]
+  },
+  {
+    "name": "Project-Test-Map",
+    "description": "This is for me to make an Unciv map to test my mods in.",
+    "author": "Angelonius",
+    "url": "https://github.com/Angelonius/Project-Test-Map",
+    "stars": 0,
+    "updated": "2023-03-15T06:43:58Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-maps"
@@ -6489,18 +6830,6 @@
     ]
   },
   {
-    "name": "2-Advantage-Difficulties-",
-    "description": "Adds 2 difficulties where you're 1.5 stronger than them",
-    "author": "PrivateRoom6863",
-    "url": "https://github.com/PrivateRoom6863/2-Advantage-Difficulties-",
-    "stars": 0,
-    "updated": "2025-05-27T05:44:23Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
     "name": "Enhanced-Spy",
     "description": "This mod enhances espionage. Have fun!",
     "author": "TokutatukoT",
@@ -6537,6 +6866,18 @@
     ]
   },
   {
+    "name": "Enhanced-Worker",
+    "description": "This mod enhances workers. Have fun!",
+    "author": "TokutatukoT",
+    "url": "https://github.com/TokutatukoT/Enhanced-Worker",
+    "stars": 0,
+    "updated": "2025-07-04T12:40:15Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
     "name": "blessed-religion",
     "description": "This mod enhances religion. Have fun!",
     "author": "TokutatukoT",
@@ -6555,6 +6896,18 @@
     "url": "https://github.com/amfauzn/Same-Happiness",
     "stars": 0,
     "updated": "2025-05-21T11:28:01Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "2-Advantage-Difficulties-",
+    "description": "Adds 2 difficulties where you're 1.5 stronger than them",
+    "author": "PrivateRoom6863",
+    "url": "https://github.com/PrivateRoom6863/2-Advantage-Difficulties-",
+    "stars": 0,
+    "updated": "2025-05-27T05:44:23Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
@@ -6591,7 +6944,7 @@
     "author": "glider2564",
     "url": "https://github.com/glider2564/my-first-unciv-mod",
     "stars": 0,
-    "updated": "2025-06-20T18:26:06Z",
+    "updated": "2025-10-14T14:03:34Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
@@ -6622,24 +6975,24 @@
     ]
   },
   {
-    "name": "Free-Resources",
-    "description": "This Unciv mod provides resources at no cost. Have fun!",
-    "author": "TokutatukoT",
-    "url": "https://github.com/TokutatukoT/Free-Resources",
+    "name": "Yet-Another-Promotion-Mod",
+    "description": "Adds some promotions to some unit types, im open to new ideas and anything, be free to play!",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Yet-Another-Promotion-Mod",
     "stars": 0,
-    "updated": "2025-03-31T09:10:49Z",
+    "updated": "2024-07-22T16:39:00Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
     ]
   },
   {
-    "name": "Enhanced-Worker",
-    "description": "This mod enhances workers. Have fun!",
-    "author": "TokutatukoT",
-    "url": "https://github.com/TokutatukoT/Enhanced-Worker",
+    "name": "Nuclear-Gandhi",
+    "description": null,
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/Nuclear-Gandhi",
     "stars": 0,
-    "updated": "2025-07-04T12:40:15Z",
+    "updated": "2024-05-07T02:35:06Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
@@ -6670,6 +7023,18 @@
     ]
   },
   {
+    "name": "Free-Resources",
+    "description": "This Unciv mod provides resources at no cost. Have fun!",
+    "author": "TokutatukoT",
+    "url": "https://github.com/TokutatukoT/Free-Resources",
+    "stars": 0,
+    "updated": "2025-03-31T09:10:49Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
     "name": "Closer-Cities-Distance-of-0",
     "description": "if you want too much city, this mod will be your answer.",
     "author": "hachchch",
@@ -6688,54 +7053,6 @@
     "url": "https://github.com/Sex13/Yuumi",
     "stars": 0,
     "updated": "2025-03-16T12:14:18Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Yet-Another-Promotion-Mod",
-    "description": "Adds some promotions to some unit types, im open to new ideas and anything, be free to play!",
-    "author": "Gafaszt2",
-    "url": "https://github.com/Gafaszt2/Yet-Another-Promotion-Mod",
-    "stars": 0,
-    "updated": "2024-07-22T16:39:00Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Nuclear-Gandhi",
-    "description": null,
-    "author": "hachchch",
-    "url": "https://github.com/hachchch/Nuclear-Gandhi",
-    "stars": 0,
-    "updated": "2024-05-07T02:35:06Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "JustFun",
-    "description": "JustFun",
-    "author": "Toartle",
-    "url": "https://github.com/Toartle/JustFun",
-    "stars": 0,
-    "updated": "2023-06-22T05:47:44Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Pepesiman-civ",
-    "description": null,
-    "author": "VerloCC",
-    "url": "https://github.com/VerloCC/Pepesiman-civ",
-    "stars": 0,
-    "updated": "2025-02-16T17:23:18Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
@@ -6778,43 +7095,6 @@
     ]
   },
   {
-    "name": "Woniu",
-    "description": "This is a unciv mod,which makes speed very slow",
-    "author": "Dasongbing",
-    "url": "https://github.com/Dasongbing/Woniu",
-    "stars": 0,
-    "updated": "2025-03-14T08:48:32Z",
-    "topics": [
-      "unciv",
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "500RandomFeatures",
-    "description": "This is a very random mod made using a script.",
-    "author": "hachchch",
-    "url": "https://github.com/hachchch/500RandomFeatures",
-    "stars": 0,
-    "updated": "2024-09-26T14:56:03Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
-    "name": "Belief-collections",
-    "description": "Mainly created for personal use, this mod just basically is my collection of a bunch of beliefs from other mods and stuff that i want to use while playing different rulesets/mods",
-    "author": "PhiRite",
-    "url": "https://github.com/PhiRite/Belief-collections",
-    "stars": 0,
-    "updated": "2025-05-02T15:32:21Z",
-    "topics": [
-      "unciv-mod",
-      "unciv-mod-fun"
-    ]
-  },
-  {
     "name": "CUBEDs-Tribal-Mod",
     "description": "CUBEDs-Tribal-Mod, a mod that makes traditional civs tribal-like (Recommend for starting in the Ancient Era)",
     "author": "BennieCUBED",
@@ -6824,6 +7104,43 @@
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "JustFun",
+    "description": "JustFun",
+    "author": "Toartle",
+    "url": "https://github.com/Toartle/JustFun",
+    "stars": 0,
+    "updated": "2023-06-22T05:47:44Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Pepesiman-civ",
+    "description": null,
+    "author": "VerloCC",
+    "url": "https://github.com/VerloCC/Pepesiman-civ",
+    "stars": 0,
+    "updated": "2025-02-16T17:23:18Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Drones-Mod-Part-4",
+    "description": "Mod for Unciv. Note that it requires the other mod.",
+    "author": "sls1005",
+    "url": "https://github.com/sls1005/Drones-Mod-Part-4",
+    "stars": 0,
+    "updated": "2024-07-17T03:11:05Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun",
+      "unciv-mod-modsofmods"
     ]
   },
   {
@@ -6851,16 +7168,28 @@
     ]
   },
   {
-    "name": "Drones-Mod-Part-4",
-    "description": "Mod for Unciv. Note that it requires the other mod.",
-    "author": "sls1005",
-    "url": "https://github.com/sls1005/Drones-Mod-Part-4",
+    "name": "500RandomFeatures",
+    "description": "This is a very random mod made using a script.",
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/500RandomFeatures",
     "stars": 0,
-    "updated": "2024-07-17T03:11:05Z",
+    "updated": "2024-09-26T14:56:03Z",
     "topics": [
       "unciv-mod",
-      "unciv-mod-fun",
-      "unciv-mod-modsofmods"
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Woniu",
+    "description": "This is a unciv mod,which makes speed very slow",
+    "author": "Dasongbing",
+    "url": "https://github.com/Dasongbing/Woniu",
+    "stars": 0,
+    "updated": "2025-03-14T08:48:32Z",
+    "topics": [
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-fun"
     ]
   },
   {
@@ -6882,6 +7211,18 @@
     "url": "https://github.com/tvconsole2019/Disadvantages-Ai",
     "stars": 0,
     "updated": "2024-07-13T12:26:02Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Belief-collections",
+    "description": "Mainly created for personal use, this mod just basically is my collection of a bunch of beliefs from other mods and stuff that i want to use while playing different rulesets/mods",
+    "author": "PhiRite",
+    "url": "https://github.com/PhiRite/Belief-collections",
+    "stars": 0,
+    "updated": "2025-05-02T15:32:21Z",
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
@@ -6983,6 +7324,428 @@
     "topics": [
       "unciv-mod",
       "unciv-mod-fun"
+    ]
+  },
+  {
+    "name": "Deciv-Unit-Limiting-2-Redone",
+    "description": "A remake of fabi0M's remake of my work, give credit to the original artist. A mod that reworks units, unit limits, and adds a new mechanic to change warfare in DeCiv. Works with Redux and 2, and compatible with mods(that DON'T change UnitTypes.json)",
+    "author": "Calais-Osterrepublic",
+    "url": "https://github.com/Calais-Osterrepublic/Deciv-Unit-Limiting-2-Redone",
+    "stars": 0,
+    "updated": "2025-04-27T13:44:34Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "-Geneciv-Extension-AkashicRecords",
+    "description": "A extention mod for Geneciv. add more about Cellbiology",
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/-Geneciv-Extension-AkashicRecords",
+    "stars": 0,
+    "updated": "2024-01-18T18:17:04Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Brave-New-World-Korean",
+    "description": "Korean translation of mod Brave-New-World by ravignir (WIP)",
+    "author": "BNath1102",
+    "url": "https://github.com/BNath1102/Brave-New-World-Korean",
+    "stars": 0,
+    "updated": "2024-06-15T04:50:46Z",
+    "topics": [
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Brazilwood-Camp-For-All",
+    "description": "Unciv mod to allow all civs to build the Brazilwood Camp improvement, requires Brave New World mod",
+    "author": "FiretronP75",
+    "url": "https://github.com/FiretronP75/Brazilwood-Camp-For-All",
+    "stars": 0,
+    "updated": "2023-03-06T21:59:32Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Chateau-For-All",
+    "description": "Unciv mod to allow all civs to build the Chateau improvement, requires Brave New World mod",
+    "author": "FiretronP75",
+    "url": "https://github.com/FiretronP75/Chateau-For-All",
+    "stars": 0,
+    "updated": "2023-03-06T21:59:31Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Remove-Wonders-BNW",
+    "description": "Unciv Mod to remove wonders, but not national wonders, requires Brave New World mod",
+    "author": "FiretronP75",
+    "url": "https://github.com/FiretronP75/Remove-Wonders-BNW",
+    "stars": 0,
+    "updated": "2024-08-08T04:58:23Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Feitoria-For-All",
+    "description": "Unciv mod to allow all civs to build the Feitoria improvement, requires Brave New World mod",
+    "author": "FiretronP75",
+    "url": "https://github.com/FiretronP75/Feitoria-For-All",
+    "stars": 0,
+    "updated": "2023-03-06T21:58:45Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "DeCiv-Reworked-Metro",
+    "description": null,
+    "author": "Giulian7",
+    "url": "https://github.com/Giulian7/DeCiv-Reworked-Metro",
+    "stars": 0,
+    "updated": "2025-09-30T11:05:43Z",
+    "topics": [
+      "deciv-redux",
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Blackadder_UncivMod",
+    "description": "Based on the hit tv series The Blackadder (1983). Now he comes to rule the world once more.",
+    "author": "ColziandKing",
+    "url": "https://github.com/ColziandKing/Blackadder_UncivMod",
+    "stars": 0,
+    "updated": "2023-04-12T05:59:35Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Restore-the-Gold-Slider-in-Deciv-2",
+    "description": "Exactly What It Says on the Tin.",
+    "author": "the-s-is-silent",
+    "url": "https://github.com/the-s-is-silent/Restore-the-Gold-Slider-in-Deciv-2",
+    "stars": 0,
+    "updated": "2025-02-05T15:46:22Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Ark-s-Unciv-Animated",
+    "description": "Adds ark animated series civilizations into Ark s Unciv Evolved",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Ark-s-Unciv-Animated",
+    "stars": 0,
+    "updated": "2024-10-24T21:51:48Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Ark-s-Unciv-Scorched",
+    "description": "desert expansion for your Ark s UJnciv Evolved generated maps!",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Ark-s-Unciv-Scorched",
+    "stars": 0,
+    "updated": "2024-05-21T19:25:47Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Ark-s-Unciv-Easter-Event",
+    "description": "Celebrate Easter Egg Hunt in this tiny expansion!",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Ark-s-Unciv-Easter-Event",
+    "stars": 0,
+    "updated": "2025-04-17T14:44:41Z",
+    "topics": [
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "No-Obsolete-for-Rekmod",
+    "description": "Mod to make all unique units from Rekmod to not be obsolete ",
+    "author": "PhiRite",
+    "url": "https://github.com/PhiRite/No-Obsolete-for-Rekmod",
+    "stars": 0,
+    "updated": "2025-04-12T17:16:24Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Shamsy-Electric-Technologies-in-AF",
+    "description": "Adds the Shamsy Electric Technologies faction to Alpha Frontier. Requires Alpha Frontier. ",
+    "author": "carriontrooper",
+    "url": "https://github.com/carriontrooper/Shamsy-Electric-Technologies-in-AF",
+    "stars": 0,
+    "updated": "2022-12-01T04:09:40Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "CoeHarMod_BoundaryBreakthrough",
+    "description": null,
+    "author": "AutumnPizazz",
+    "url": "https://github.com/AutumnPizazz/CoeHarMod_BoundaryBreakthrough",
+    "stars": 0,
+    "updated": "2023-10-12T10:29:52Z",
+    "topics": [
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "No-Obsolete-for-3rd-and-4th-uniques",
+    "description": "Mod to make all unique units from the 3rd and 4th unique components to not be obsolete",
+    "author": "PhiRite",
+    "url": "https://github.com/PhiRite/No-Obsolete-for-3rd-and-4th-uniques",
+    "stars": 0,
+    "updated": "2025-04-12T17:17:06Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "No-Obsolete-for-Epic-of-Fantasy",
+    "description": "Mod to make all unique units from Epic of fantasy to not be obsolete",
+    "author": "PhiRite",
+    "url": "https://github.com/PhiRite/No-Obsolete-for-Epic-of-Fantasy",
+    "stars": 0,
+    "updated": "2025-04-12T17:16:41Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Kasbah-For-All",
+    "description": "Unciv mod to allow all civs to build the Kasbah improvement, requires Brave New World mod",
+    "author": "FiretronP75",
+    "url": "https://github.com/FiretronP75/Kasbah-For-All",
+    "stars": 0,
+    "updated": "2023-03-06T21:58:46Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Citrarii-for-Deciv-2",
+    "description": "Adds the Citrarii Group faction to Deciv 2. Currently WIP and will be rebalanced in future.",
+    "author": "4xAsh1",
+    "url": "https://github.com/4xAsh1/Citrarii-for-Deciv-2",
+    "stars": 0,
+    "updated": "2025-08-24T12:56:33Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "cute-little-first-unciv-mod",
+    "description": null,
+    "author": "O-spin",
+    "url": "https://github.com/O-spin/cute-little-first-unciv-mod",
+    "stars": 0,
+    "updated": "2024-05-29T17:25:30Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "bad-AF",
+    "description": "worser for alpha frontier",
+    "author": "chessemchesse",
+    "url": "https://github.com/chessemchesse/bad-AF",
+    "stars": 0,
+    "updated": "2025-04-09T01:18:45Z",
+    "topics": [
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Ark-s-Unciv-Lovers",
+    "description": "Adds couples/partners to your ark s unciv evolved experience, they appear on the leather era",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Ark-s-Unciv-Lovers",
+    "stars": 0,
+    "updated": "2025-02-15T17:26:12Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "The-Great-Unciv-Rework-Rework",
+    "description": null,
+    "author": "hachchch",
+    "url": "https://github.com/hachchch/The-Great-Unciv-Rework-Rework",
+    "stars": 0,
+    "updated": "2023-10-14T10:58:08Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "ichthys-mod",
+    "description": "Mod for Unciv. Adds Christianity (in case that the ruleset doesn't have it) with a different symbol.",
+    "author": "sls1005",
+    "url": "https://github.com/sls1005/ichthys-mod",
+    "stars": 0,
+    "updated": "2024-07-18T05:12:49Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Dreams-of-Combustion-Expansion",
+    "description": "Enables National Focuses to DOC civs",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Dreams-of-Combustion-Expansion",
+    "stars": 0,
+    "updated": "2025-03-21T21:00:41Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Fantasia-nation",
+    "description": null,
+    "author": "EmperorVboiuerfg",
+    "url": "https://github.com/EmperorVboiuerfg/Fantasia-nation",
+    "stars": 0,
+    "updated": "2025-05-27T08:03:34Z",
+    "topics": [
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Ark-s-Unciv-No-Volcanoes",
+    "description": "This additional mini mod deletes the volcanos in your Ark S Unciv Evolved generated maps",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Ark-s-Unciv-No-Volcanoes",
+    "stars": 0,
+    "updated": "2024-05-21T19:27:03Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Remove-Religion-BNW",
+    "description": "Unciv Mod to disable religion and remove faith city states, faith policies and faith uniques, requires Brave New World mod",
+    "author": "FiretronP75",
+    "url": "https://github.com/FiretronP75/Remove-Religion-BNW",
+    "stars": 0,
+    "updated": "2024-08-08T04:58:23Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "DeCiv-Reborn-Soviet-Russia",
+    "description": null,
+    "author": "SovSteelDragon",
+    "url": "https://github.com/SovSteelDragon/DeCiv-Reborn-Soviet-Russia",
+    "stars": 0,
+    "updated": "2025-02-17T14:15:36Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Frontier-Nation",
+    "description": "Power trip go brrr",
+    "author": "EmperorVboiuerfg",
+    "url": "https://github.com/EmperorVboiuerfg/Frontier-Nation",
+    "stars": 0,
+    "updated": "2025-05-27T08:02:21Z",
+    "topics": [
+      "unciv",
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Ark-s-Unciv-Aberration",
+    "description": "Converts your Ark s Unciv Evolved into a Aberration style (for Generated maps)",
+    "author": "Gafaszt2",
+    "url": "https://github.com/Gafaszt2/Ark-s-Unciv-Aberration",
+    "stars": 0,
+    "updated": "2024-07-24T22:33:28Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "Re-Add-National-Treasury-BNW-Unciv",
+    "description": "Compatibility stuff",
+    "author": "carriontrooper",
+    "url": "https://github.com/carriontrooper/Re-Add-National-Treasury-BNW-Unciv",
+    "stars": 0,
+    "updated": "2023-01-16T04:59:20Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "No-Obsolete-for-Brave-New-World",
+    "description": "Mod to make all unique units from BNW to not be obsolete",
+    "author": "PhiRite",
+    "url": "https://github.com/PhiRite/No-Obsolete-for-Brave-New-World",
+    "stars": 0,
+    "updated": "2025-04-12T17:16:52Z",
+    "topics": [
+      "unciv-mod",
+      "unciv-mod-modsofmods"
+    ]
+  },
+  {
+    "name": "King_Oldnew",
+    "description": "unciv",
+    "author": "ColziandKing",
+    "url": "https://github.com/ColziandKing/King_Oldnew",
+    "stars": 0,
+    "updated": "2025-10-03T13:36:39Z",
+    "topics": [
+      "unciv-fun",
+      "unciv-mod",
+      "unciv-mod-modsofmods"
     ]
   }
 ]
