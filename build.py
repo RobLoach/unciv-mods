@@ -7,6 +7,7 @@ from datetime import datetime
 
 GITHUB_API_URL = "https://api.github.com/search/repositories"
 TAGS = [
+    "unciv-mod",
     "unciv-mod-rulesets",
     "unciv-mod-expansions",
     "unciv-mod-graphics",
