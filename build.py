@@ -7,7 +7,6 @@ from datetime import datetime
 
 GITHUB_API_URL = "https://api.github.com/search/repositories"
 TAGS = [
-    "unciv-mod",
     "unciv-mod-rulesets",
     "unciv-mod-expansions",
     "unciv-mod-graphics",
@@ -18,13 +17,13 @@ TAGS = [
     "unciv-mod-of-mods",
 ]
 
-def fetch_repos_by_topic(topic, per_page=30):
+def fetch_repos_by_topic(topic, per_page=20):
     headers = {}
     token = os.environ.get("GITHUB_TOKEN")
     if token:
         headers["Authorization"] = f"token {token}"
     else:
-        print("Requires GITHUB_TOKEN https://github.com/settings/personal-access-tokens/new?name=Unciv-Mods-GitHub-Pages", file=sys.stderr)
+        print("Requires GITHUB_TOKEN https://github.com/settings/personal-access-tokens/new?name=Unciv-Mods", file=sys.stderr)
         sys.exit(1)
     all_items = []
     page = 1
@@ -52,6 +51,7 @@ def fetch_repos_by_topic(topic, per_page=30):
 
 def build_markdown_table(repos):
     # Header
+    build_date = datetime.now(datetime.UTC).strftime("%Y-%m-%d")
     rows = [
         "---",
         "hide:",
@@ -60,7 +60,7 @@ def build_markdown_table(repos):
         "---",
         "# Unciv Mods",
         "",
-        "This is a list of mods available for [Unciv](https://yairm210.github.io/Unciv/).",
+        f"This is a list of mods available for [Unciv](https://yairm210.github.io/Unciv/), as of *{build_date}*.",
         "",
         "- [mods.json](assets/mods.json)",
         "- [mods.zip](assets/mods.zip)",
