@@ -65,16 +65,20 @@ def build_markdown_table(repos):
         "- [mods.json](assets/mods.json)",
         "- [mods.zip](assets/mods.zip)",
         "",
-        "| Name | Author | Stars | Updated |",
-        "| ---- | ------ | ----- | ------- |"
+        "| Name | Category | Author | Stars | Updated |",
+        "| --- | --- | --- | --- | --- |"
     ]
 
     # Write each entry
     for repo in repos:
         cleanname = repo['name'].replace("-", " ").replace("   ", " - ")
         name = f"[{cleanname}]({repo['html_url']})"
+
+        # Description
         desc = repo["description"] or ""
         desc = desc.replace("|", "\\|")
+
+        # Meta Data
         author = f"[{repo.get('owner', {}).get('login')}]({repo['html_url']})"
         stars = repo["stargazers_count"]
         updated_raw = repo.get("updated_at", "")
@@ -82,10 +86,19 @@ def build_markdown_table(repos):
             updated = datetime.strptime(updated_raw, "%Y-%m-%dT%H:%M:%SZ").strftime("%Y-%m-%d")
         except Exception:
             updated = updated_raw
-        row = f"| {name}<br>{desc} | {author} | {stars} | {updated} |"
+
+        # Find the Category from the topics.
+        topics = repo.get("topics", [])
+        category = "Other"
+        for tag in TAGS:
+            if tag in topics:
+                category = tag.replace("unciv-mod-", "").replace("-", " ").capitalize()
+                break
+
+        # Construct the row.
+        row = f"| {name}<br>{desc} | {category} | {author} | {stars} | {updated} |"
         rows.append(row)
     return "\n".join(rows)
-
 
 def main():
     all_repos = {}
