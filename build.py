@@ -3,7 +3,7 @@ import sys
 import os
 import json
 import zipfile
-from datetime import datetime
+from datetime import datetime, timezone
 
 GITHUB_API_URL = "https://api.github.com/search/repositories"
 TAGS = [
@@ -51,7 +51,7 @@ def fetch_repos_by_topic(topic, per_page=20):
 
 def build_markdown_table(repos):
     # Header
-    build_date = datetime.now(datetime.UTC).strftime("%Y-%m-%d")
+    build_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     rows = [
         "---",
         "hide:",
