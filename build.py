@@ -71,7 +71,7 @@ def build_markdown_table(repos):
 
     # Write each entry
     for repo in repos:
-        cleanname = repo['name'].replace("-", " ").replace("   ", " - ").replace(" _ ", " & ")
+        cleanname = repo['name'].replace("-", " ").replace("   ", " - ").replace(" _ ", " - ")
         name = f"[{cleanname}]({repo['html_url']})"
 
         # Description
