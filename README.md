@@ -1,6 +1,6 @@
 # Unciv Mods
 
-Lists all the available Unciv mods, in a website, and a mods.json manifest file.
+Lists all the available [Unciv](https://github.com/yairm210/Unciv) mods, in a website, and a mods.json manifest file.
 
 ## Development
 
