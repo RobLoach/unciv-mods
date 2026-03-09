@@ -105,6 +105,9 @@ def main():
     for tag in TAGS:
         repos = fetch_repos_by_topic(tag, per_page=30)
         for repo in repos:
+            # Skip archived repositories
+            if repo.get("archived"):
+                continue
             all_repos[repo["id"]] = repo
 
     # index.md
