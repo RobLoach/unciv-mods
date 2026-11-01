@@ -2,6 +2,7 @@ import requests
 import sys
 import os
 import json
+import time
 import zipfile
 from datetime import datetime, timezone
 
@@ -36,9 +37,15 @@ def fetch_repos_by_topic(topic, per_page=20):
             "page": page,
         }
         response = requests.get(GITHUB_API_URL, params=params, headers=headers)
+        if response.status_code in (403, 429) and response.headers.get("X-RateLimit-Remaining") == "0":
+            # Search API is limited to 30 requests/minute; wait for the reset.
+            wait = max(int(response.headers.get("X-RateLimit-Reset", 0)) - int(time.time()), 0) + 1
+            print(f"Rate limited, waiting {wait}s", file=sys.stderr)
+            time.sleep(wait)
+            continue
         if response.status_code != 200:
             print(f"Failed to fetch for topic {topic} page {page}: {response.status_code}", file=sys.stderr)
-            break
+            sys.exit(1)
         items = response.json().get("items", [])
         if not items:
             break
@@ -103,7 +110,7 @@ def build_markdown_table(repos):
 def main():
     all_repos = {}
     for tag in TAGS:
-        repos = fetch_repos_by_topic(tag, per_page=30)
+        repos = fetch_repos_by_topic(tag, per_page=100)
         for repo in repos:
             # Skip archived repositories
             if repo.get("archived"):
